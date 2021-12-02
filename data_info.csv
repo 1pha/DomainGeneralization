@@ -1,0 +1,1800 @@
+,img,domain,split,label
+0,./OfficeHome/00000.jpg,Art,train,0
+1,./OfficeHome/00001.jpg,Art,train,0
+2,./OfficeHome/00002.jpg,Art,train,0
+3,./OfficeHome/00003.jpg,Art,train,0
+4,./OfficeHome/00004.jpg,Art,train,0
+5,./OfficeHome/00005.jpg,Art,train,0
+6,./OfficeHome/00006.jpg,Art,train,0
+7,./OfficeHome/00007.jpg,Art,train,0
+8,./OfficeHome/00008.jpg,Art,train,0
+9,./OfficeHome/00009.jpg,Art,train,0
+10,./OfficeHome/00010.jpg,Art,train,0
+11,./OfficeHome/00011.jpg,Art,train,0
+12,./OfficeHome/00012.jpg,Art,train,0
+13,./OfficeHome/00013.jpg,Art,train,0
+14,./OfficeHome/00014.jpg,Art,train,0
+15,./OfficeHome/00015.jpg,Art,train,0
+16,./OfficeHome/00016.jpg,Art,train,0
+17,./OfficeHome/00017.jpg,Art,train,0
+18,./OfficeHome/00018.jpg,Art,train,0
+19,./OfficeHome/00019.jpg,Art,train,0
+20,./OfficeHome/00020.jpg,Art,train,0
+21,./OfficeHome/00021.jpg,Art,train,0
+22,./OfficeHome/00022.jpg,Art,train,0
+23,./OfficeHome/00023.jpg,Art,train,0
+24,./OfficeHome/00024.jpg,Art,train,0
+25,./OfficeHome/00025.jpg,Art,train,0
+26,./OfficeHome/00026.jpg,Art,train,0
+27,./OfficeHome/00027.jpg,Art,valid,0
+28,./OfficeHome/00028.jpg,Art,valid,0
+29,./OfficeHome/00029.jpg,Art,valid,0
+30,./OfficeHome/00030.jpg,Art,valid,0
+31,./OfficeHome/00031.jpg,Art,valid,0
+32,./OfficeHome/00032.jpg,Art,valid,0
+33,./OfficeHome/00033.jpg,Art,valid,0
+34,./OfficeHome/00034.jpg,Art,train,1
+35,./OfficeHome/00035.jpg,Art,train,1
+36,./OfficeHome/00036.jpg,Art,train,1
+37,./OfficeHome/00037.jpg,Art,train,1
+38,./OfficeHome/00038.jpg,Art,train,1
+39,./OfficeHome/00039.jpg,Art,train,1
+40,./OfficeHome/00040.jpg,Art,train,1
+41,./OfficeHome/00041.jpg,Art,train,1
+42,./OfficeHome/00042.jpg,Art,train,1
+43,./OfficeHome/00043.jpg,Art,train,1
+44,./OfficeHome/00044.jpg,Art,train,1
+45,./OfficeHome/00045.jpg,Art,train,1
+46,./OfficeHome/00046.jpg,Art,train,1
+47,./OfficeHome/00047.jpg,Art,train,1
+48,./OfficeHome/00048.jpg,Art,train,1
+49,./OfficeHome/00049.jpg,Art,valid,1
+50,./OfficeHome/00050.jpg,Art,valid,1
+51,./OfficeHome/00051.jpg,Art,valid,1
+52,./OfficeHome/00052.jpg,Art,valid,1
+53,./OfficeHome/00053.jpg,Art,train,2
+54,./OfficeHome/00054.jpg,Art,train,2
+55,./OfficeHome/00055.jpg,Art,train,2
+56,./OfficeHome/00056.jpg,Art,train,2
+57,./OfficeHome/00057.jpg,Art,train,2
+58,./OfficeHome/00058.jpg,Art,train,2
+59,./OfficeHome/00059.jpg,Art,train,2
+60,./OfficeHome/00060.jpg,Art,train,2
+61,./OfficeHome/00061.jpg,Art,train,2
+62,./OfficeHome/00062.jpg,Art,train,2
+63,./OfficeHome/00063.jpg,Art,train,2
+64,./OfficeHome/00064.jpg,Art,valid,2
+65,./OfficeHome/00065.jpg,Art,valid,2
+66,./OfficeHome/00066.jpg,Art,valid,2
+67,./OfficeHome/00067.jpg,Art,train,3
+68,./OfficeHome/00068.jpg,Art,train,3
+69,./OfficeHome/00069.jpg,Art,train,3
+70,./OfficeHome/00070.jpg,Art,train,3
+71,./OfficeHome/00071.jpg,Art,train,3
+72,./OfficeHome/00072.jpg,Art,train,3
+73,./OfficeHome/00073.jpg,Art,train,3
+74,./OfficeHome/00074.jpg,Art,train,3
+75,./OfficeHome/00075.jpg,Art,train,3
+76,./OfficeHome/00076.jpg,Art,train,3
+77,./OfficeHome/00077.jpg,Art,valid,3
+78,./OfficeHome/00078.jpg,Art,valid,3
+79,./OfficeHome/00079.jpg,Art,valid,3
+80,./OfficeHome/00080.jpg,Art,train,4
+81,./OfficeHome/00081.jpg,Art,train,4
+82,./OfficeHome/00082.jpg,Art,train,4
+83,./OfficeHome/00083.jpg,Art,train,4
+84,./OfficeHome/00084.jpg,Art,train,4
+85,./OfficeHome/00085.jpg,Art,train,4
+86,./OfficeHome/00086.jpg,Art,train,4
+87,./OfficeHome/00087.jpg,Art,train,4
+88,./OfficeHome/00088.jpg,Art,train,4
+89,./OfficeHome/00089.jpg,Art,train,4
+90,./OfficeHome/00090.jpg,Art,train,4
+91,./OfficeHome/00091.jpg,Art,train,4
+92,./OfficeHome/00092.jpg,Art,train,4
+93,./OfficeHome/00093.jpg,Art,train,4
+94,./OfficeHome/00094.jpg,Art,valid,4
+95,./OfficeHome/00095.jpg,Art,valid,4
+96,./OfficeHome/00096.jpg,Art,valid,4
+97,./OfficeHome/00097.jpg,Art,train,5
+98,./OfficeHome/00098.jpg,Art,train,5
+99,./OfficeHome/00099.jpg,Art,train,5
+100,./OfficeHome/00100.jpg,Art,train,5
+101,./OfficeHome/00101.jpg,Art,train,5
+102,./OfficeHome/00102.jpg,Art,train,5
+103,./OfficeHome/00103.jpg,Art,train,5
+104,./OfficeHome/00104.jpg,Art,train,5
+105,./OfficeHome/00105.jpg,Art,train,5
+106,./OfficeHome/00106.jpg,Art,train,5
+107,./OfficeHome/00107.jpg,Art,train,5
+108,./OfficeHome/00108.jpg,Art,train,5
+109,./OfficeHome/00109.jpg,Art,train,5
+110,./OfficeHome/00110.jpg,Art,valid,5
+111,./OfficeHome/00111.jpg,Art,valid,5
+112,./OfficeHome/00112.jpg,Art,valid,5
+113,./OfficeHome/00113.jpg,Art,train,6
+114,./OfficeHome/00114.jpg,Art,train,6
+115,./OfficeHome/00115.jpg,Art,train,6
+116,./OfficeHome/00116.jpg,Art,train,6
+117,./OfficeHome/00117.jpg,Art,train,6
+118,./OfficeHome/00118.jpg,Art,train,6
+119,./OfficeHome/00119.jpg,Art,train,6
+120,./OfficeHome/00120.jpg,Art,train,6
+121,./OfficeHome/00121.jpg,Art,train,6
+122,./OfficeHome/00122.jpg,Art,train,6
+123,./OfficeHome/00123.jpg,Art,train,6
+124,./OfficeHome/00124.jpg,Art,train,6
+125,./OfficeHome/00125.jpg,Art,train,6
+126,./OfficeHome/00126.jpg,Art,train,6
+127,./OfficeHome/00127.jpg,Art,train,6
+128,./OfficeHome/00128.jpg,Art,train,6
+129,./OfficeHome/00129.jpg,Art,train,6
+130,./OfficeHome/00130.jpg,Art,train,6
+131,./OfficeHome/00131.jpg,Art,train,6
+132,./OfficeHome/00132.jpg,Art,train,6
+133,./OfficeHome/00133.jpg,Art,train,6
+134,./OfficeHome/00134.jpg,Art,train,6
+135,./OfficeHome/00135.jpg,Art,train,6
+136,./OfficeHome/00136.jpg,Art,train,6
+137,./OfficeHome/00137.jpg,Art,train,6
+138,./OfficeHome/00138.jpg,Art,train,6
+139,./OfficeHome/00139.jpg,Art,train,6
+140,./OfficeHome/00140.jpg,Art,valid,6
+141,./OfficeHome/00141.jpg,Art,valid,6
+142,./OfficeHome/00142.jpg,Art,valid,6
+143,./OfficeHome/00143.jpg,Art,valid,6
+144,./OfficeHome/00144.jpg,Art,valid,6
+145,./OfficeHome/00145.jpg,Art,valid,6
+146,./OfficeHome/00146.jpg,Art,valid,6
+147,./OfficeHome/00147.jpg,Art,train,7
+148,./OfficeHome/00148.jpg,Art,train,7
+149,./OfficeHome/00149.jpg,Art,train,7
+150,./OfficeHome/00150.jpg,Art,train,7
+151,./OfficeHome/00151.jpg,Art,train,7
+152,./OfficeHome/00152.jpg,Art,train,7
+153,./OfficeHome/00153.jpg,Art,train,7
+154,./OfficeHome/00154.jpg,Art,train,7
+155,./OfficeHome/00155.jpg,Art,train,7
+156,./OfficeHome/00156.jpg,Art,train,7
+157,./OfficeHome/00157.jpg,Art,train,7
+158,./OfficeHome/00158.jpg,Art,train,7
+159,./OfficeHome/00159.jpg,Art,train,7
+160,./OfficeHome/00160.jpg,Art,train,7
+161,./OfficeHome/00161.jpg,Art,valid,7
+162,./OfficeHome/00162.jpg,Art,valid,7
+163,./OfficeHome/00163.jpg,Art,valid,7
+164,./OfficeHome/00164.jpg,Art,valid,7
+165,./OfficeHome/00165.jpg,Art,train,8
+166,./OfficeHome/00166.jpg,Art,train,8
+167,./OfficeHome/00167.jpg,Art,train,8
+168,./OfficeHome/00168.jpg,Art,train,8
+169,./OfficeHome/00169.jpg,Art,train,8
+170,./OfficeHome/00170.jpg,Art,train,8
+171,./OfficeHome/00171.jpg,Art,train,8
+172,./OfficeHome/00172.jpg,Art,train,8
+173,./OfficeHome/00173.jpg,Art,train,8
+174,./OfficeHome/00174.jpg,Art,train,8
+175,./OfficeHome/00175.jpg,Art,train,8
+176,./OfficeHome/00176.jpg,Art,train,8
+177,./OfficeHome/00177.jpg,Art,train,8
+178,./OfficeHome/00178.jpg,Art,train,8
+179,./OfficeHome/00179.jpg,Art,train,8
+180,./OfficeHome/00180.jpg,Art,train,8
+181,./OfficeHome/00181.jpg,Art,train,8
+182,./OfficeHome/00182.jpg,Art,train,8
+183,./OfficeHome/00183.jpg,Art,train,8
+184,./OfficeHome/00184.jpg,Art,train,8
+185,./OfficeHome/00185.jpg,Art,train,8
+186,./OfficeHome/00186.jpg,Art,train,8
+187,./OfficeHome/00187.jpg,Art,train,8
+188,./OfficeHome/00188.jpg,Art,train,8
+189,./OfficeHome/00189.jpg,Art,train,8
+190,./OfficeHome/00190.jpg,Art,train,8
+191,./OfficeHome/00191.jpg,Art,train,8
+192,./OfficeHome/00192.jpg,Art,train,8
+193,./OfficeHome/00193.jpg,Art,train,8
+194,./OfficeHome/00194.jpg,Art,train,8
+195,./OfficeHome/00195.jpg,Art,train,8
+196,./OfficeHome/00196.jpg,Art,train,8
+197,./OfficeHome/00197.jpg,Art,train,8
+198,./OfficeHome/00198.jpg,Art,train,8
+199,./OfficeHome/00199.jpg,Art,train,8
+200,./OfficeHome/00200.jpg,Art,train,8
+201,./OfficeHome/00201.jpg,Art,train,8
+202,./OfficeHome/00202.jpg,Art,train,8
+203,./OfficeHome/00203.jpg,Art,train,8
+204,./OfficeHome/00204.jpg,Art,train,8
+205,./OfficeHome/00205.jpg,Art,train,8
+206,./OfficeHome/00206.jpg,Art,train,8
+207,./OfficeHome/00207.jpg,Art,train,8
+208,./OfficeHome/00208.jpg,Art,train,8
+209,./OfficeHome/00209.jpg,Art,train,8
+210,./OfficeHome/00210.jpg,Art,train,8
+211,./OfficeHome/00211.jpg,Art,train,8
+212,./OfficeHome/00212.jpg,Art,train,8
+213,./OfficeHome/00213.jpg,Art,valid,8
+214,./OfficeHome/00214.jpg,Art,valid,8
+215,./OfficeHome/00215.jpg,Art,valid,8
+216,./OfficeHome/00216.jpg,Art,valid,8
+217,./OfficeHome/00217.jpg,Art,valid,8
+218,./OfficeHome/00218.jpg,Art,valid,8
+219,./OfficeHome/00219.jpg,Art,valid,8
+220,./OfficeHome/00220.jpg,Art,valid,8
+221,./OfficeHome/00221.jpg,Art,valid,8
+222,./OfficeHome/00222.jpg,Art,valid,8
+223,./OfficeHome/00223.jpg,Art,valid,8
+224,./OfficeHome/00224.jpg,Art,valid,8
+225,./OfficeHome/00225.jpg,Art,train,9
+226,./OfficeHome/00226.jpg,Art,train,9
+227,./OfficeHome/00227.jpg,Art,train,9
+228,./OfficeHome/00228.jpg,Art,train,9
+229,./OfficeHome/00229.jpg,Art,train,9
+230,./OfficeHome/00230.jpg,Art,train,9
+231,./OfficeHome/00231.jpg,Art,train,9
+232,./OfficeHome/00232.jpg,Art,train,9
+233,./OfficeHome/00233.jpg,Art,train,9
+234,./OfficeHome/00234.jpg,Art,train,9
+235,./OfficeHome/00235.jpg,Art,train,9
+236,./OfficeHome/00236.jpg,Art,train,9
+237,./OfficeHome/00237.jpg,Art,train,9
+238,./OfficeHome/00238.jpg,Art,train,9
+239,./OfficeHome/00239.jpg,Art,train,9
+240,./OfficeHome/00240.jpg,Art,train,9
+241,./OfficeHome/00241.jpg,Art,train,9
+242,./OfficeHome/00242.jpg,Art,train,9
+243,./OfficeHome/00243.jpg,Art,train,9
+244,./OfficeHome/00244.jpg,Art,train,9
+245,./OfficeHome/00245.jpg,Art,train,9
+246,./OfficeHome/00246.jpg,Art,train,9
+247,./OfficeHome/00247.jpg,Art,train,9
+248,./OfficeHome/00248.jpg,Art,train,9
+249,./OfficeHome/00249.jpg,Art,train,9
+250,./OfficeHome/00250.jpg,Art,train,9
+251,./OfficeHome/00251.jpg,Art,train,9
+252,./OfficeHome/00252.jpg,Art,train,9
+253,./OfficeHome/00253.jpg,Art,valid,9
+254,./OfficeHome/00254.jpg,Art,valid,9
+255,./OfficeHome/00255.jpg,Art,valid,9
+256,./OfficeHome/00256.jpg,Art,valid,9
+257,./OfficeHome/00257.jpg,Art,valid,9
+258,./OfficeHome/00258.jpg,Art,valid,9
+259,./OfficeHome/00259.jpg,Art,valid,9
+260,./OfficeHome/00260.jpg,Clipart,train,0
+261,./OfficeHome/00261.jpg,Clipart,train,0
+262,./OfficeHome/00262.jpg,Clipart,train,0
+263,./OfficeHome/00263.jpg,Clipart,train,0
+264,./OfficeHome/00264.jpg,Clipart,train,0
+265,./OfficeHome/00265.jpg,Clipart,train,0
+266,./OfficeHome/00266.jpg,Clipart,train,0
+267,./OfficeHome/00267.jpg,Clipart,train,0
+268,./OfficeHome/00268.jpg,Clipart,train,0
+269,./OfficeHome/00269.jpg,Clipart,train,0
+270,./OfficeHome/00270.jpg,Clipart,train,0
+271,./OfficeHome/00271.jpg,Clipart,train,0
+272,./OfficeHome/00272.jpg,Clipart,train,0
+273,./OfficeHome/00273.jpg,Clipart,train,0
+274,./OfficeHome/00274.jpg,Clipart,train,0
+275,./OfficeHome/00275.jpg,Clipart,train,0
+276,./OfficeHome/00276.jpg,Clipart,train,0
+277,./OfficeHome/00277.jpg,Clipart,train,0
+278,./OfficeHome/00278.jpg,Clipart,train,0
+279,./OfficeHome/00279.jpg,Clipart,train,0
+280,./OfficeHome/00280.jpg,Clipart,train,0
+281,./OfficeHome/00281.jpg,Clipart,train,0
+282,./OfficeHome/00282.jpg,Clipart,train,0
+283,./OfficeHome/00283.jpg,Clipart,train,0
+284,./OfficeHome/00284.jpg,Clipart,train,0
+285,./OfficeHome/00285.jpg,Clipart,train,0
+286,./OfficeHome/00286.jpg,Clipart,train,0
+287,./OfficeHome/00287.jpg,Clipart,train,0
+288,./OfficeHome/00288.jpg,Clipart,train,0
+289,./OfficeHome/00289.jpg,Clipart,train,0
+290,./OfficeHome/00290.jpg,Clipart,train,0
+291,./OfficeHome/00291.jpg,Clipart,train,0
+292,./OfficeHome/00292.jpg,Clipart,train,0
+293,./OfficeHome/00293.jpg,Clipart,train,0
+294,./OfficeHome/00294.jpg,Clipart,train,0
+295,./OfficeHome/00295.jpg,Clipart,train,0
+296,./OfficeHome/00296.jpg,Clipart,train,0
+297,./OfficeHome/00297.jpg,Clipart,train,0
+298,./OfficeHome/00298.jpg,Clipart,train,0
+299,./OfficeHome/00299.jpg,Clipart,train,0
+300,./OfficeHome/00300.jpg,Clipart,train,0
+301,./OfficeHome/00301.jpg,Clipart,train,0
+302,./OfficeHome/00302.jpg,Clipart,train,0
+303,./OfficeHome/00303.jpg,Clipart,train,0
+304,./OfficeHome/00304.jpg,Clipart,train,0
+305,./OfficeHome/00305.jpg,Clipart,train,0
+306,./OfficeHome/00306.jpg,Clipart,train,0
+307,./OfficeHome/00307.jpg,Clipart,train,0
+308,./OfficeHome/00308.jpg,Clipart,train,0
+309,./OfficeHome/00309.jpg,Clipart,train,0
+310,./OfficeHome/00310.jpg,Clipart,train,0
+311,./OfficeHome/00311.jpg,Clipart,train,0
+312,./OfficeHome/00312.jpg,Clipart,train,0
+313,./OfficeHome/00313.jpg,Clipart,train,0
+314,./OfficeHome/00314.jpg,Clipart,train,0
+315,./OfficeHome/00315.jpg,Clipart,train,0
+316,./OfficeHome/00316.jpg,Clipart,train,0
+317,./OfficeHome/00317.jpg,Clipart,train,0
+318,./OfficeHome/00318.jpg,Clipart,train,0
+319,./OfficeHome/00319.jpg,Clipart,train,0
+320,./OfficeHome/00320.jpg,Clipart,train,0
+321,./OfficeHome/00321.jpg,Clipart,train,0
+322,./OfficeHome/00322.jpg,Clipart,train,0
+323,./OfficeHome/00323.jpg,Clipart,train,0
+324,./OfficeHome/00324.jpg,Clipart,train,0
+325,./OfficeHome/00325.jpg,Clipart,train,0
+326,./OfficeHome/00326.jpg,Clipart,valid,0
+327,./OfficeHome/00327.jpg,Clipart,valid,0
+328,./OfficeHome/00328.jpg,Clipart,valid,0
+329,./OfficeHome/00329.jpg,Clipart,valid,0
+330,./OfficeHome/00330.jpg,Clipart,valid,0
+331,./OfficeHome/00331.jpg,Clipart,valid,0
+332,./OfficeHome/00332.jpg,Clipart,valid,0
+333,./OfficeHome/00333.jpg,Clipart,valid,0
+334,./OfficeHome/00334.jpg,Clipart,valid,0
+335,./OfficeHome/00335.jpg,Clipart,valid,0
+336,./OfficeHome/00336.jpg,Clipart,valid,0
+337,./OfficeHome/00337.jpg,Clipart,valid,0
+338,./OfficeHome/00338.jpg,Clipart,valid,0
+339,./OfficeHome/00339.jpg,Clipart,valid,0
+340,./OfficeHome/00340.jpg,Clipart,valid,0
+341,./OfficeHome/00341.jpg,Clipart,valid,0
+342,./OfficeHome/00342.jpg,Clipart,train,1
+343,./OfficeHome/00343.jpg,Clipart,train,1
+344,./OfficeHome/00344.jpg,Clipart,train,1
+345,./OfficeHome/00345.jpg,Clipart,train,1
+346,./OfficeHome/00346.jpg,Clipart,train,1
+347,./OfficeHome/00347.jpg,Clipart,train,1
+348,./OfficeHome/00348.jpg,Clipart,train,1
+349,./OfficeHome/00349.jpg,Clipart,train,1
+350,./OfficeHome/00350.jpg,Clipart,train,1
+351,./OfficeHome/00351.jpg,Clipart,train,1
+352,./OfficeHome/00352.jpg,Clipart,train,1
+353,./OfficeHome/00353.jpg,Clipart,train,1
+354,./OfficeHome/00354.jpg,Clipart,train,1
+355,./OfficeHome/00355.jpg,Clipart,train,1
+356,./OfficeHome/00356.jpg,Clipart,train,1
+357,./OfficeHome/00357.jpg,Clipart,train,1
+358,./OfficeHome/00358.jpg,Clipart,train,1
+359,./OfficeHome/00359.jpg,Clipart,train,1
+360,./OfficeHome/00360.jpg,Clipart,train,1
+361,./OfficeHome/00361.jpg,Clipart,train,1
+362,./OfficeHome/00362.jpg,Clipart,train,1
+363,./OfficeHome/00363.jpg,Clipart,train,1
+364,./OfficeHome/00364.jpg,Clipart,train,1
+365,./OfficeHome/00365.jpg,Clipart,train,1
+366,./OfficeHome/00366.jpg,Clipart,train,1
+367,./OfficeHome/00367.jpg,Clipart,train,1
+368,./OfficeHome/00368.jpg,Clipart,train,1
+369,./OfficeHome/00369.jpg,Clipart,valid,1
+370,./OfficeHome/00370.jpg,Clipart,valid,1
+371,./OfficeHome/00371.jpg,Clipart,valid,1
+372,./OfficeHome/00372.jpg,Clipart,valid,1
+373,./OfficeHome/00373.jpg,Clipart,valid,1
+374,./OfficeHome/00374.jpg,Clipart,valid,1
+375,./OfficeHome/00375.jpg,Clipart,valid,1
+376,./OfficeHome/00376.jpg,Clipart,train,2
+377,./OfficeHome/00377.jpg,Clipart,train,2
+378,./OfficeHome/00378.jpg,Clipart,train,2
+379,./OfficeHome/00379.jpg,Clipart,train,2
+380,./OfficeHome/00380.jpg,Clipart,train,2
+381,./OfficeHome/00381.jpg,Clipart,train,2
+382,./OfficeHome/00382.jpg,Clipart,train,2
+383,./OfficeHome/00383.jpg,Clipart,train,2
+384,./OfficeHome/00384.jpg,Clipart,train,2
+385,./OfficeHome/00385.jpg,Clipart,train,2
+386,./OfficeHome/00386.jpg,Clipart,train,2
+387,./OfficeHome/00387.jpg,Clipart,train,2
+388,./OfficeHome/00388.jpg,Clipart,train,2
+389,./OfficeHome/00389.jpg,Clipart,train,2
+390,./OfficeHome/00390.jpg,Clipart,train,2
+391,./OfficeHome/00391.jpg,Clipart,train,2
+392,./OfficeHome/00392.jpg,Clipart,train,2
+393,./OfficeHome/00393.jpg,Clipart,train,2
+394,./OfficeHome/00394.jpg,Clipart,train,2
+395,./OfficeHome/00395.jpg,Clipart,train,2
+396,./OfficeHome/00396.jpg,Clipart,train,2
+397,./OfficeHome/00397.jpg,Clipart,train,2
+398,./OfficeHome/00398.jpg,Clipart,train,2
+399,./OfficeHome/00399.jpg,Clipart,train,2
+400,./OfficeHome/00400.jpg,Clipart,train,2
+401,./OfficeHome/00401.jpg,Clipart,train,2
+402,./OfficeHome/00402.jpg,Clipart,train,2
+403,./OfficeHome/00403.jpg,Clipart,valid,2
+404,./OfficeHome/00404.jpg,Clipart,valid,2
+405,./OfficeHome/00405.jpg,Clipart,valid,2
+406,./OfficeHome/00406.jpg,Clipart,valid,2
+407,./OfficeHome/00407.jpg,Clipart,valid,2
+408,./OfficeHome/00408.jpg,Clipart,valid,2
+409,./OfficeHome/00409.jpg,Clipart,valid,2
+410,./OfficeHome/00410.jpg,Clipart,train,3
+411,./OfficeHome/00411.jpg,Clipart,train,3
+412,./OfficeHome/00412.jpg,Clipart,train,3
+413,./OfficeHome/00413.jpg,Clipart,train,3
+414,./OfficeHome/00414.jpg,Clipart,train,3
+415,./OfficeHome/00415.jpg,Clipart,train,3
+416,./OfficeHome/00416.jpg,Clipart,train,3
+417,./OfficeHome/00417.jpg,Clipart,train,3
+418,./OfficeHome/00418.jpg,Clipart,train,3
+419,./OfficeHome/00419.jpg,Clipart,train,3
+420,./OfficeHome/00420.jpg,Clipart,train,3
+421,./OfficeHome/00421.jpg,Clipart,train,3
+422,./OfficeHome/00422.jpg,Clipart,train,3
+423,./OfficeHome/00423.jpg,Clipart,train,3
+424,./OfficeHome/00424.jpg,Clipart,train,3
+425,./OfficeHome/00425.jpg,Clipart,train,3
+426,./OfficeHome/00426.jpg,Clipart,train,3
+427,./OfficeHome/00427.jpg,Clipart,train,3
+428,./OfficeHome/00428.jpg,Clipart,train,3
+429,./OfficeHome/00429.jpg,Clipart,train,3
+430,./OfficeHome/00430.jpg,Clipart,train,3
+431,./OfficeHome/00431.jpg,Clipart,train,3
+432,./OfficeHome/00432.jpg,Clipart,train,3
+433,./OfficeHome/00433.jpg,Clipart,train,3
+434,./OfficeHome/00434.jpg,Clipart,train,3
+435,./OfficeHome/00435.jpg,Clipart,train,3
+436,./OfficeHome/00436.jpg,Clipart,train,3
+437,./OfficeHome/00437.jpg,Clipart,train,3
+438,./OfficeHome/00438.jpg,Clipart,train,3
+439,./OfficeHome/00439.jpg,Clipart,train,3
+440,./OfficeHome/00440.jpg,Clipart,train,3
+441,./OfficeHome/00441.jpg,Clipart,train,3
+442,./OfficeHome/00442.jpg,Clipart,valid,3
+443,./OfficeHome/00443.jpg,Clipart,valid,3
+444,./OfficeHome/00444.jpg,Clipart,valid,3
+445,./OfficeHome/00445.jpg,Clipart,valid,3
+446,./OfficeHome/00446.jpg,Clipart,valid,3
+447,./OfficeHome/00447.jpg,Clipart,valid,3
+448,./OfficeHome/00448.jpg,Clipart,valid,3
+449,./OfficeHome/00449.jpg,Clipart,valid,3
+450,./OfficeHome/00450.jpg,Clipart,train,4
+451,./OfficeHome/00451.jpg,Clipart,train,4
+452,./OfficeHome/00452.jpg,Clipart,train,4
+453,./OfficeHome/00453.jpg,Clipart,train,4
+454,./OfficeHome/00454.jpg,Clipart,train,4
+455,./OfficeHome/00455.jpg,Clipart,train,4
+456,./OfficeHome/00456.jpg,Clipart,train,4
+457,./OfficeHome/00457.jpg,Clipart,train,4
+458,./OfficeHome/00458.jpg,Clipart,train,4
+459,./OfficeHome/00459.jpg,Clipart,train,4
+460,./OfficeHome/00460.jpg,Clipart,train,4
+461,./OfficeHome/00461.jpg,Clipart,train,4
+462,./OfficeHome/00462.jpg,Clipart,train,4
+463,./OfficeHome/00463.jpg,Clipart,train,4
+464,./OfficeHome/00464.jpg,Clipart,train,4
+465,./OfficeHome/00465.jpg,Clipart,train,4
+466,./OfficeHome/00466.jpg,Clipart,train,4
+467,./OfficeHome/00467.jpg,Clipart,train,4
+468,./OfficeHome/00468.jpg,Clipart,train,4
+469,./OfficeHome/00469.jpg,Clipart,train,4
+470,./OfficeHome/00470.jpg,Clipart,train,4
+471,./OfficeHome/00471.jpg,Clipart,train,4
+472,./OfficeHome/00472.jpg,Clipart,train,4
+473,./OfficeHome/00473.jpg,Clipart,train,4
+474,./OfficeHome/00474.jpg,Clipart,train,4
+475,./OfficeHome/00475.jpg,Clipart,train,4
+476,./OfficeHome/00476.jpg,Clipart,train,4
+477,./OfficeHome/00477.jpg,Clipart,train,4
+478,./OfficeHome/00478.jpg,Clipart,train,4
+479,./OfficeHome/00479.jpg,Clipart,train,4
+480,./OfficeHome/00480.jpg,Clipart,train,4
+481,./OfficeHome/00481.jpg,Clipart,train,4
+482,./OfficeHome/00482.jpg,Clipart,train,4
+483,./OfficeHome/00483.jpg,Clipart,train,4
+484,./OfficeHome/00484.jpg,Clipart,train,4
+485,./OfficeHome/00485.jpg,Clipart,train,4
+486,./OfficeHome/00486.jpg,Clipart,train,4
+487,./OfficeHome/00487.jpg,Clipart,train,4
+488,./OfficeHome/00488.jpg,Clipart,train,4
+489,./OfficeHome/00489.jpg,Clipart,train,4
+490,./OfficeHome/00490.jpg,Clipart,train,4
+491,./OfficeHome/00491.jpg,Clipart,train,4
+492,./OfficeHome/00492.jpg,Clipart,train,4
+493,./OfficeHome/00493.jpg,Clipart,train,4
+494,./OfficeHome/00494.jpg,Clipart,train,4
+495,./OfficeHome/00495.jpg,Clipart,train,4
+496,./OfficeHome/00496.jpg,Clipart,train,4
+497,./OfficeHome/00497.jpg,Clipart,train,4
+498,./OfficeHome/00498.jpg,Clipart,train,4
+499,./OfficeHome/00499.jpg,Clipart,train,4
+500,./OfficeHome/00500.jpg,Clipart,train,4
+501,./OfficeHome/00501.jpg,Clipart,train,4
+502,./OfficeHome/00502.jpg,Clipart,train,4
+503,./OfficeHome/00503.jpg,Clipart,train,4
+504,./OfficeHome/00504.jpg,Clipart,train,4
+505,./OfficeHome/00505.jpg,Clipart,train,4
+506,./OfficeHome/00506.jpg,Clipart,train,4
+507,./OfficeHome/00507.jpg,Clipart,train,4
+508,./OfficeHome/00508.jpg,Clipart,train,4
+509,./OfficeHome/00509.jpg,Clipart,train,4
+510,./OfficeHome/00510.jpg,Clipart,train,4
+511,./OfficeHome/00511.jpg,Clipart,train,4
+512,./OfficeHome/00512.jpg,Clipart,train,4
+513,./OfficeHome/00513.jpg,Clipart,train,4
+514,./OfficeHome/00514.jpg,Clipart,train,4
+515,./OfficeHome/00515.jpg,Clipart,train,4
+516,./OfficeHome/00516.jpg,Clipart,valid,4
+517,./OfficeHome/00517.jpg,Clipart,valid,4
+518,./OfficeHome/00518.jpg,Clipart,valid,4
+519,./OfficeHome/00519.jpg,Clipart,valid,4
+520,./OfficeHome/00520.jpg,Clipart,valid,4
+521,./OfficeHome/00521.jpg,Clipart,valid,4
+522,./OfficeHome/00522.jpg,Clipart,valid,4
+523,./OfficeHome/00523.jpg,Clipart,valid,4
+524,./OfficeHome/00524.jpg,Clipart,valid,4
+525,./OfficeHome/00525.jpg,Clipart,valid,4
+526,./OfficeHome/00526.jpg,Clipart,valid,4
+527,./OfficeHome/00527.jpg,Clipart,valid,4
+528,./OfficeHome/00528.jpg,Clipart,valid,4
+529,./OfficeHome/00529.jpg,Clipart,valid,4
+530,./OfficeHome/00530.jpg,Clipart,valid,4
+531,./OfficeHome/00531.jpg,Clipart,valid,4
+532,./OfficeHome/00532.jpg,Clipart,valid,4
+533,./OfficeHome/00533.jpg,Clipart,train,5
+534,./OfficeHome/00534.jpg,Clipart,train,5
+535,./OfficeHome/00535.jpg,Clipart,train,5
+536,./OfficeHome/00536.jpg,Clipart,train,5
+537,./OfficeHome/00537.jpg,Clipart,train,5
+538,./OfficeHome/00538.jpg,Clipart,train,5
+539,./OfficeHome/00539.jpg,Clipart,train,5
+540,./OfficeHome/00540.jpg,Clipart,train,5
+541,./OfficeHome/00541.jpg,Clipart,train,5
+542,./OfficeHome/00542.jpg,Clipart,train,5
+543,./OfficeHome/00543.jpg,Clipart,train,5
+544,./OfficeHome/00544.jpg,Clipart,train,5
+545,./OfficeHome/00545.jpg,Clipart,train,5
+546,./OfficeHome/00546.jpg,Clipart,train,5
+547,./OfficeHome/00547.jpg,Clipart,train,5
+548,./OfficeHome/00548.jpg,Clipart,train,5
+549,./OfficeHome/00549.jpg,Clipart,train,5
+550,./OfficeHome/00550.jpg,Clipart,train,5
+551,./OfficeHome/00551.jpg,Clipart,train,5
+552,./OfficeHome/00552.jpg,Clipart,train,5
+553,./OfficeHome/00553.jpg,Clipart,train,5
+554,./OfficeHome/00554.jpg,Clipart,train,5
+555,./OfficeHome/00555.jpg,Clipart,train,5
+556,./OfficeHome/00556.jpg,Clipart,train,5
+557,./OfficeHome/00557.jpg,Clipart,train,5
+558,./OfficeHome/00558.jpg,Clipart,train,5
+559,./OfficeHome/00559.jpg,Clipart,train,5
+560,./OfficeHome/00560.jpg,Clipart,train,5
+561,./OfficeHome/00561.jpg,Clipart,valid,5
+562,./OfficeHome/00562.jpg,Clipart,valid,5
+563,./OfficeHome/00563.jpg,Clipart,valid,5
+564,./OfficeHome/00564.jpg,Clipart,valid,5
+565,./OfficeHome/00565.jpg,Clipart,valid,5
+566,./OfficeHome/00566.jpg,Clipart,valid,5
+567,./OfficeHome/00567.jpg,Clipart,valid,5
+568,./OfficeHome/00568.jpg,Clipart,train,6
+569,./OfficeHome/00569.jpg,Clipart,train,6
+570,./OfficeHome/00570.jpg,Clipart,train,6
+571,./OfficeHome/00571.jpg,Clipart,train,6
+572,./OfficeHome/00572.jpg,Clipart,train,6
+573,./OfficeHome/00573.jpg,Clipart,train,6
+574,./OfficeHome/00574.jpg,Clipart,train,6
+575,./OfficeHome/00575.jpg,Clipart,train,6
+576,./OfficeHome/00576.jpg,Clipart,train,6
+577,./OfficeHome/00577.jpg,Clipart,train,6
+578,./OfficeHome/00578.jpg,Clipart,train,6
+579,./OfficeHome/00579.jpg,Clipart,train,6
+580,./OfficeHome/00580.jpg,Clipart,train,6
+581,./OfficeHome/00581.jpg,Clipart,train,6
+582,./OfficeHome/00582.jpg,Clipart,train,6
+583,./OfficeHome/00583.jpg,Clipart,train,6
+584,./OfficeHome/00584.jpg,Clipart,train,6
+585,./OfficeHome/00585.jpg,Clipart,train,6
+586,./OfficeHome/00586.jpg,Clipart,train,6
+587,./OfficeHome/00587.jpg,Clipart,train,6
+588,./OfficeHome/00588.jpg,Clipart,train,6
+589,./OfficeHome/00589.jpg,Clipart,train,6
+590,./OfficeHome/00590.jpg,Clipart,train,6
+591,./OfficeHome/00591.jpg,Clipart,train,6
+592,./OfficeHome/00592.jpg,Clipart,train,6
+593,./OfficeHome/00593.jpg,Clipart,train,6
+594,./OfficeHome/00594.jpg,Clipart,train,6
+595,./OfficeHome/00595.jpg,Clipart,train,6
+596,./OfficeHome/00596.jpg,Clipart,train,6
+597,./OfficeHome/00597.jpg,Clipart,train,6
+598,./OfficeHome/00598.jpg,Clipart,train,6
+599,./OfficeHome/00599.jpg,Clipart,train,6
+600,./OfficeHome/00600.jpg,Clipart,train,6
+601,./OfficeHome/00601.jpg,Clipart,train,6
+602,./OfficeHome/00602.jpg,Clipart,train,6
+603,./OfficeHome/00603.jpg,Clipart,train,6
+604,./OfficeHome/00604.jpg,Clipart,train,6
+605,./OfficeHome/00605.jpg,Clipart,train,6
+606,./OfficeHome/00606.jpg,Clipart,train,6
+607,./OfficeHome/00607.jpg,Clipart,train,6
+608,./OfficeHome/00608.jpg,Clipart,train,6
+609,./OfficeHome/00609.jpg,Clipart,valid,6
+610,./OfficeHome/00610.jpg,Clipart,valid,6
+611,./OfficeHome/00611.jpg,Clipart,valid,6
+612,./OfficeHome/00612.jpg,Clipart,valid,6
+613,./OfficeHome/00613.jpg,Clipart,valid,6
+614,./OfficeHome/00614.jpg,Clipart,valid,6
+615,./OfficeHome/00615.jpg,Clipart,valid,6
+616,./OfficeHome/00616.jpg,Clipart,valid,6
+617,./OfficeHome/00617.jpg,Clipart,valid,6
+618,./OfficeHome/00618.jpg,Clipart,valid,6
+619,./OfficeHome/00619.jpg,Clipart,train,7
+620,./OfficeHome/00620.jpg,Clipart,train,7
+621,./OfficeHome/00621.jpg,Clipart,train,7
+622,./OfficeHome/00622.jpg,Clipart,train,7
+623,./OfficeHome/00623.jpg,Clipart,train,7
+624,./OfficeHome/00624.jpg,Clipart,train,7
+625,./OfficeHome/00625.jpg,Clipart,train,7
+626,./OfficeHome/00626.jpg,Clipart,train,7
+627,./OfficeHome/00627.jpg,Clipart,train,7
+628,./OfficeHome/00628.jpg,Clipart,train,7
+629,./OfficeHome/00629.jpg,Clipart,train,7
+630,./OfficeHome/00630.jpg,Clipart,train,7
+631,./OfficeHome/00631.jpg,Clipart,train,7
+632,./OfficeHome/00632.jpg,Clipart,train,7
+633,./OfficeHome/00633.jpg,Clipart,train,7
+634,./OfficeHome/00634.jpg,Clipart,train,7
+635,./OfficeHome/00635.jpg,Clipart,train,7
+636,./OfficeHome/00636.jpg,Clipart,train,7
+637,./OfficeHome/00637.jpg,Clipart,train,7
+638,./OfficeHome/00638.jpg,Clipart,train,7
+639,./OfficeHome/00639.jpg,Clipart,train,7
+640,./OfficeHome/00640.jpg,Clipart,train,7
+641,./OfficeHome/00641.jpg,Clipart,train,7
+642,./OfficeHome/00642.jpg,Clipart,train,7
+643,./OfficeHome/00643.jpg,Clipart,train,7
+644,./OfficeHome/00644.jpg,Clipart,train,7
+645,./OfficeHome/00645.jpg,Clipart,train,7
+646,./OfficeHome/00646.jpg,Clipart,train,7
+647,./OfficeHome/00647.jpg,Clipart,train,7
+648,./OfficeHome/00648.jpg,Clipart,train,7
+649,./OfficeHome/00649.jpg,Clipart,train,7
+650,./OfficeHome/00650.jpg,Clipart,train,7
+651,./OfficeHome/00651.jpg,Clipart,train,7
+652,./OfficeHome/00652.jpg,Clipart,train,7
+653,./OfficeHome/00653.jpg,Clipart,train,7
+654,./OfficeHome/00654.jpg,Clipart,train,7
+655,./OfficeHome/00655.jpg,Clipart,valid,7
+656,./OfficeHome/00656.jpg,Clipart,valid,7
+657,./OfficeHome/00657.jpg,Clipart,valid,7
+658,./OfficeHome/00658.jpg,Clipart,valid,7
+659,./OfficeHome/00659.jpg,Clipart,valid,7
+660,./OfficeHome/00660.jpg,Clipart,valid,7
+661,./OfficeHome/00661.jpg,Clipart,valid,7
+662,./OfficeHome/00662.jpg,Clipart,valid,7
+663,./OfficeHome/00663.jpg,Clipart,valid,7
+664,./OfficeHome/00664.jpg,Clipart,train,8
+665,./OfficeHome/00665.jpg,Clipart,train,8
+666,./OfficeHome/00666.jpg,Clipart,train,8
+667,./OfficeHome/00667.jpg,Clipart,train,8
+668,./OfficeHome/00668.jpg,Clipart,train,8
+669,./OfficeHome/00669.jpg,Clipart,train,8
+670,./OfficeHome/00670.jpg,Clipart,train,8
+671,./OfficeHome/00671.jpg,Clipart,train,8
+672,./OfficeHome/00672.jpg,Clipart,train,8
+673,./OfficeHome/00673.jpg,Clipart,train,8
+674,./OfficeHome/00674.jpg,Clipart,train,8
+675,./OfficeHome/00675.jpg,Clipart,train,8
+676,./OfficeHome/00676.jpg,Clipart,train,8
+677,./OfficeHome/00677.jpg,Clipart,train,8
+678,./OfficeHome/00678.jpg,Clipart,train,8
+679,./OfficeHome/00679.jpg,Clipart,train,8
+680,./OfficeHome/00680.jpg,Clipart,train,8
+681,./OfficeHome/00681.jpg,Clipart,train,8
+682,./OfficeHome/00682.jpg,Clipart,train,8
+683,./OfficeHome/00683.jpg,Clipart,train,8
+684,./OfficeHome/00684.jpg,Clipart,train,8
+685,./OfficeHome/00685.jpg,Clipart,train,8
+686,./OfficeHome/00686.jpg,Clipart,train,8
+687,./OfficeHome/00687.jpg,Clipart,train,8
+688,./OfficeHome/00688.jpg,Clipart,train,8
+689,./OfficeHome/00689.jpg,Clipart,train,8
+690,./OfficeHome/00690.jpg,Clipart,train,8
+691,./OfficeHome/00691.jpg,Clipart,train,8
+692,./OfficeHome/00692.jpg,Clipart,train,8
+693,./OfficeHome/00693.jpg,Clipart,train,8
+694,./OfficeHome/00694.jpg,Clipart,train,8
+695,./OfficeHome/00695.jpg,Clipart,train,8
+696,./OfficeHome/00696.jpg,Clipart,train,8
+697,./OfficeHome/00697.jpg,Clipart,train,8
+698,./OfficeHome/00698.jpg,Clipart,train,8
+699,./OfficeHome/00699.jpg,Clipart,train,8
+700,./OfficeHome/00700.jpg,Clipart,valid,8
+701,./OfficeHome/00701.jpg,Clipart,valid,8
+702,./OfficeHome/00702.jpg,Clipart,valid,8
+703,./OfficeHome/00703.jpg,Clipart,valid,8
+704,./OfficeHome/00704.jpg,Clipart,valid,8
+705,./OfficeHome/00705.jpg,Clipart,valid,8
+706,./OfficeHome/00706.jpg,Clipart,valid,8
+707,./OfficeHome/00707.jpg,Clipart,valid,8
+708,./OfficeHome/00708.jpg,Clipart,valid,8
+709,./OfficeHome/00709.jpg,Clipart,train,9
+710,./OfficeHome/00710.jpg,Clipart,train,9
+711,./OfficeHome/00711.jpg,Clipart,train,9
+712,./OfficeHome/00712.jpg,Clipart,train,9
+713,./OfficeHome/00713.jpg,Clipart,train,9
+714,./OfficeHome/00714.jpg,Clipart,train,9
+715,./OfficeHome/00715.jpg,Clipart,train,9
+716,./OfficeHome/00716.jpg,Clipart,train,9
+717,./OfficeHome/00717.jpg,Clipart,train,9
+718,./OfficeHome/00718.jpg,Clipart,train,9
+719,./OfficeHome/00719.jpg,Clipart,train,9
+720,./OfficeHome/00720.jpg,Clipart,train,9
+721,./OfficeHome/00721.jpg,Clipart,train,9
+722,./OfficeHome/00722.jpg,Clipart,train,9
+723,./OfficeHome/00723.jpg,Clipart,train,9
+724,./OfficeHome/00724.jpg,Clipart,train,9
+725,./OfficeHome/00725.jpg,Clipart,train,9
+726,./OfficeHome/00726.jpg,Clipart,train,9
+727,./OfficeHome/00727.jpg,Clipart,train,9
+728,./OfficeHome/00728.jpg,Clipart,train,9
+729,./OfficeHome/00729.jpg,Clipart,train,9
+730,./OfficeHome/00730.jpg,Clipart,train,9
+731,./OfficeHome/00731.jpg,Clipart,train,9
+732,./OfficeHome/00732.jpg,Clipart,train,9
+733,./OfficeHome/00733.jpg,Clipart,train,9
+734,./OfficeHome/00734.jpg,Clipart,train,9
+735,./OfficeHome/00735.jpg,Clipart,train,9
+736,./OfficeHome/00736.jpg,Clipart,train,9
+737,./OfficeHome/00737.jpg,Clipart,valid,9
+738,./OfficeHome/00738.jpg,Clipart,valid,9
+739,./OfficeHome/00739.jpg,Clipart,valid,9
+740,./OfficeHome/00740.jpg,Clipart,valid,9
+741,./OfficeHome/00741.jpg,Clipart,valid,9
+742,./OfficeHome/00742.jpg,Clipart,valid,9
+743,./OfficeHome/00743.jpg,Clipart,valid,9
+744,./OfficeHome/00744.jpg,Product,train,0
+745,./OfficeHome/00745.jpg,Product,train,0
+746,./OfficeHome/00746.jpg,Product,train,0
+747,./OfficeHome/00747.jpg,Product,train,0
+748,./OfficeHome/00748.jpg,Product,train,0
+749,./OfficeHome/00749.jpg,Product,train,0
+750,./OfficeHome/00750.jpg,Product,train,0
+751,./OfficeHome/00751.jpg,Product,train,0
+752,./OfficeHome/00752.jpg,Product,train,0
+753,./OfficeHome/00753.jpg,Product,train,0
+754,./OfficeHome/00754.jpg,Product,train,0
+755,./OfficeHome/00755.jpg,Product,train,0
+756,./OfficeHome/00756.jpg,Product,train,0
+757,./OfficeHome/00757.jpg,Product,train,0
+758,./OfficeHome/00758.jpg,Product,train,0
+759,./OfficeHome/00759.jpg,Product,train,0
+760,./OfficeHome/00760.jpg,Product,train,0
+761,./OfficeHome/00761.jpg,Product,train,0
+762,./OfficeHome/00762.jpg,Product,train,0
+763,./OfficeHome/00763.jpg,Product,train,0
+764,./OfficeHome/00764.jpg,Product,train,0
+765,./OfficeHome/00765.jpg,Product,train,0
+766,./OfficeHome/00766.jpg,Product,train,0
+767,./OfficeHome/00767.jpg,Product,train,0
+768,./OfficeHome/00768.jpg,Product,train,0
+769,./OfficeHome/00769.jpg,Product,train,0
+770,./OfficeHome/00770.jpg,Product,train,0
+771,./OfficeHome/00771.jpg,Product,train,0
+772,./OfficeHome/00772.jpg,Product,train,0
+773,./OfficeHome/00773.jpg,Product,valid,0
+774,./OfficeHome/00774.jpg,Product,valid,0
+775,./OfficeHome/00775.jpg,Product,valid,0
+776,./OfficeHome/00776.jpg,Product,valid,0
+777,./OfficeHome/00777.jpg,Product,valid,0
+778,./OfficeHome/00778.jpg,Product,valid,0
+779,./OfficeHome/00779.jpg,Product,valid,0
+780,./OfficeHome/00780.jpg,Product,train,1
+781,./OfficeHome/00781.jpg,Product,train,1
+782,./OfficeHome/00782.jpg,Product,train,1
+783,./OfficeHome/00783.jpg,Product,train,1
+784,./OfficeHome/00784.jpg,Product,train,1
+785,./OfficeHome/00785.jpg,Product,train,1
+786,./OfficeHome/00786.jpg,Product,train,1
+787,./OfficeHome/00787.jpg,Product,train,1
+788,./OfficeHome/00788.jpg,Product,train,1
+789,./OfficeHome/00789.jpg,Product,train,1
+790,./OfficeHome/00790.jpg,Product,train,1
+791,./OfficeHome/00791.jpg,Product,train,1
+792,./OfficeHome/00792.jpg,Product,train,1
+793,./OfficeHome/00793.jpg,Product,train,1
+794,./OfficeHome/00794.jpg,Product,train,1
+795,./OfficeHome/00795.jpg,Product,train,1
+796,./OfficeHome/00796.jpg,Product,train,1
+797,./OfficeHome/00797.jpg,Product,train,1
+798,./OfficeHome/00798.jpg,Product,train,1
+799,./OfficeHome/00799.jpg,Product,train,1
+800,./OfficeHome/00800.jpg,Product,train,1
+801,./OfficeHome/00801.jpg,Product,train,1
+802,./OfficeHome/00802.jpg,Product,train,1
+803,./OfficeHome/00803.jpg,Product,train,1
+804,./OfficeHome/00804.jpg,Product,train,1
+805,./OfficeHome/00805.jpg,Product,train,1
+806,./OfficeHome/00806.jpg,Product,train,1
+807,./OfficeHome/00807.jpg,Product,train,1
+808,./OfficeHome/00808.jpg,Product,train,1
+809,./OfficeHome/00809.jpg,Product,train,1
+810,./OfficeHome/00810.jpg,Product,train,1
+811,./OfficeHome/00811.jpg,Product,train,1
+812,./OfficeHome/00812.jpg,Product,train,1
+813,./OfficeHome/00813.jpg,Product,train,1
+814,./OfficeHome/00814.jpg,Product,train,1
+815,./OfficeHome/00815.jpg,Product,train,1
+816,./OfficeHome/00816.jpg,Product,train,1
+817,./OfficeHome/00817.jpg,Product,train,1
+818,./OfficeHome/00818.jpg,Product,train,1
+819,./OfficeHome/00819.jpg,Product,train,1
+820,./OfficeHome/00820.jpg,Product,train,1
+821,./OfficeHome/00821.jpg,Product,train,1
+822,./OfficeHome/00822.jpg,Product,train,1
+823,./OfficeHome/00823.jpg,Product,train,1
+824,./OfficeHome/00824.jpg,Product,train,1
+825,./OfficeHome/00825.jpg,Product,train,1
+826,./OfficeHome/00826.jpg,Product,train,1
+827,./OfficeHome/00827.jpg,Product,train,1
+828,./OfficeHome/00828.jpg,Product,valid,1
+829,./OfficeHome/00829.jpg,Product,valid,1
+830,./OfficeHome/00830.jpg,Product,valid,1
+831,./OfficeHome/00831.jpg,Product,valid,1
+832,./OfficeHome/00832.jpg,Product,valid,1
+833,./OfficeHome/00833.jpg,Product,valid,1
+834,./OfficeHome/00834.jpg,Product,valid,1
+835,./OfficeHome/00835.jpg,Product,valid,1
+836,./OfficeHome/00836.jpg,Product,valid,1
+837,./OfficeHome/00837.jpg,Product,valid,1
+838,./OfficeHome/00838.jpg,Product,valid,1
+839,./OfficeHome/00839.jpg,Product,valid,1
+840,./OfficeHome/00840.jpg,Product,train,2
+841,./OfficeHome/00841.jpg,Product,train,2
+842,./OfficeHome/00842.jpg,Product,train,2
+843,./OfficeHome/00843.jpg,Product,train,2
+844,./OfficeHome/00844.jpg,Product,train,2
+845,./OfficeHome/00845.jpg,Product,train,2
+846,./OfficeHome/00846.jpg,Product,train,2
+847,./OfficeHome/00847.jpg,Product,train,2
+848,./OfficeHome/00848.jpg,Product,train,2
+849,./OfficeHome/00849.jpg,Product,train,2
+850,./OfficeHome/00850.jpg,Product,train,2
+851,./OfficeHome/00851.jpg,Product,train,2
+852,./OfficeHome/00852.jpg,Product,train,2
+853,./OfficeHome/00853.jpg,Product,train,2
+854,./OfficeHome/00854.jpg,Product,train,2
+855,./OfficeHome/00855.jpg,Product,train,2
+856,./OfficeHome/00856.jpg,Product,train,2
+857,./OfficeHome/00857.jpg,Product,train,2
+858,./OfficeHome/00858.jpg,Product,train,2
+859,./OfficeHome/00859.jpg,Product,train,2
+860,./OfficeHome/00860.jpg,Product,train,2
+861,./OfficeHome/00861.jpg,Product,train,2
+862,./OfficeHome/00862.jpg,Product,train,2
+863,./OfficeHome/00863.jpg,Product,train,2
+864,./OfficeHome/00864.jpg,Product,train,2
+865,./OfficeHome/00865.jpg,Product,train,2
+866,./OfficeHome/00866.jpg,Product,train,2
+867,./OfficeHome/00867.jpg,Product,train,2
+868,./OfficeHome/00868.jpg,Product,train,2
+869,./OfficeHome/00869.jpg,Product,train,2
+870,./OfficeHome/00870.jpg,Product,train,2
+871,./OfficeHome/00871.jpg,Product,train,2
+872,./OfficeHome/00872.jpg,Product,train,2
+873,./OfficeHome/00873.jpg,Product,train,2
+874,./OfficeHome/00874.jpg,Product,train,2
+875,./OfficeHome/00875.jpg,Product,train,2
+876,./OfficeHome/00876.jpg,Product,train,2
+877,./OfficeHome/00877.jpg,Product,train,2
+878,./OfficeHome/00878.jpg,Product,train,2
+879,./OfficeHome/00879.jpg,Product,train,2
+880,./OfficeHome/00880.jpg,Product,train,2
+881,./OfficeHome/00881.jpg,Product,train,2
+882,./OfficeHome/00882.jpg,Product,train,2
+883,./OfficeHome/00883.jpg,Product,train,2
+884,./OfficeHome/00884.jpg,Product,train,2
+885,./OfficeHome/00885.jpg,Product,train,2
+886,./OfficeHome/00886.jpg,Product,train,2
+887,./OfficeHome/00887.jpg,Product,train,2
+888,./OfficeHome/00888.jpg,Product,train,2
+889,./OfficeHome/00889.jpg,Product,train,2
+890,./OfficeHome/00890.jpg,Product,train,2
+891,./OfficeHome/00891.jpg,Product,train,2
+892,./OfficeHome/00892.jpg,Product,train,2
+893,./OfficeHome/00893.jpg,Product,train,2
+894,./OfficeHome/00894.jpg,Product,train,2
+895,./OfficeHome/00895.jpg,Product,train,2
+896,./OfficeHome/00896.jpg,Product,train,2
+897,./OfficeHome/00897.jpg,Product,train,2
+898,./OfficeHome/00898.jpg,Product,train,2
+899,./OfficeHome/00899.jpg,Product,train,2
+900,./OfficeHome/00900.jpg,Product,train,2
+901,./OfficeHome/00901.jpg,Product,train,2
+902,./OfficeHome/00902.jpg,Product,train,2
+903,./OfficeHome/00903.jpg,Product,train,2
+904,./OfficeHome/00904.jpg,Product,train,2
+905,./OfficeHome/00905.jpg,Product,train,2
+906,./OfficeHome/00906.jpg,Product,valid,2
+907,./OfficeHome/00907.jpg,Product,valid,2
+908,./OfficeHome/00908.jpg,Product,valid,2
+909,./OfficeHome/00909.jpg,Product,valid,2
+910,./OfficeHome/00910.jpg,Product,valid,2
+911,./OfficeHome/00911.jpg,Product,valid,2
+912,./OfficeHome/00912.jpg,Product,valid,2
+913,./OfficeHome/00913.jpg,Product,valid,2
+914,./OfficeHome/00914.jpg,Product,valid,2
+915,./OfficeHome/00915.jpg,Product,valid,2
+916,./OfficeHome/00916.jpg,Product,valid,2
+917,./OfficeHome/00917.jpg,Product,valid,2
+918,./OfficeHome/00918.jpg,Product,valid,2
+919,./OfficeHome/00919.jpg,Product,valid,2
+920,./OfficeHome/00920.jpg,Product,valid,2
+921,./OfficeHome/00921.jpg,Product,valid,2
+922,./OfficeHome/00922.jpg,Product,train,3
+923,./OfficeHome/00923.jpg,Product,train,3
+924,./OfficeHome/00924.jpg,Product,train,3
+925,./OfficeHome/00925.jpg,Product,train,3
+926,./OfficeHome/00926.jpg,Product,train,3
+927,./OfficeHome/00927.jpg,Product,train,3
+928,./OfficeHome/00928.jpg,Product,train,3
+929,./OfficeHome/00929.jpg,Product,train,3
+930,./OfficeHome/00930.jpg,Product,train,3
+931,./OfficeHome/00931.jpg,Product,train,3
+932,./OfficeHome/00932.jpg,Product,train,3
+933,./OfficeHome/00933.jpg,Product,train,3
+934,./OfficeHome/00934.jpg,Product,train,3
+935,./OfficeHome/00935.jpg,Product,train,3
+936,./OfficeHome/00936.jpg,Product,train,3
+937,./OfficeHome/00937.jpg,Product,train,3
+938,./OfficeHome/00938.jpg,Product,train,3
+939,./OfficeHome/00939.jpg,Product,train,3
+940,./OfficeHome/00940.jpg,Product,train,3
+941,./OfficeHome/00941.jpg,Product,train,3
+942,./OfficeHome/00942.jpg,Product,train,3
+943,./OfficeHome/00943.jpg,Product,train,3
+944,./OfficeHome/00944.jpg,Product,train,3
+945,./OfficeHome/00945.jpg,Product,train,3
+946,./OfficeHome/00946.jpg,Product,train,3
+947,./OfficeHome/00947.jpg,Product,train,3
+948,./OfficeHome/00948.jpg,Product,train,3
+949,./OfficeHome/00949.jpg,Product,train,3
+950,./OfficeHome/00950.jpg,Product,train,3
+951,./OfficeHome/00951.jpg,Product,train,3
+952,./OfficeHome/00952.jpg,Product,train,3
+953,./OfficeHome/00953.jpg,Product,train,3
+954,./OfficeHome/00954.jpg,Product,train,3
+955,./OfficeHome/00955.jpg,Product,train,3
+956,./OfficeHome/00956.jpg,Product,train,3
+957,./OfficeHome/00957.jpg,Product,train,3
+958,./OfficeHome/00958.jpg,Product,train,3
+959,./OfficeHome/00959.jpg,Product,train,3
+960,./OfficeHome/00960.jpg,Product,train,3
+961,./OfficeHome/00961.jpg,Product,train,3
+962,./OfficeHome/00962.jpg,Product,train,3
+963,./OfficeHome/00963.jpg,Product,train,3
+964,./OfficeHome/00964.jpg,Product,train,3
+965,./OfficeHome/00965.jpg,Product,train,3
+966,./OfficeHome/00966.jpg,Product,train,3
+967,./OfficeHome/00967.jpg,Product,valid,3
+968,./OfficeHome/00968.jpg,Product,valid,3
+969,./OfficeHome/00969.jpg,Product,valid,3
+970,./OfficeHome/00970.jpg,Product,valid,3
+971,./OfficeHome/00971.jpg,Product,valid,3
+972,./OfficeHome/00972.jpg,Product,valid,3
+973,./OfficeHome/00973.jpg,Product,valid,3
+974,./OfficeHome/00974.jpg,Product,valid,3
+975,./OfficeHome/00975.jpg,Product,valid,3
+976,./OfficeHome/00976.jpg,Product,valid,3
+977,./OfficeHome/00977.jpg,Product,valid,3
+978,./OfficeHome/00978.jpg,Product,train,4
+979,./OfficeHome/00979.jpg,Product,train,4
+980,./OfficeHome/00980.jpg,Product,train,4
+981,./OfficeHome/00981.jpg,Product,train,4
+982,./OfficeHome/00982.jpg,Product,train,4
+983,./OfficeHome/00983.jpg,Product,train,4
+984,./OfficeHome/00984.jpg,Product,train,4
+985,./OfficeHome/00985.jpg,Product,train,4
+986,./OfficeHome/00986.jpg,Product,train,4
+987,./OfficeHome/00987.jpg,Product,train,4
+988,./OfficeHome/00988.jpg,Product,train,4
+989,./OfficeHome/00989.jpg,Product,train,4
+990,./OfficeHome/00990.jpg,Product,train,4
+991,./OfficeHome/00991.jpg,Product,train,4
+992,./OfficeHome/00992.jpg,Product,train,4
+993,./OfficeHome/00993.jpg,Product,train,4
+994,./OfficeHome/00994.jpg,Product,train,4
+995,./OfficeHome/00995.jpg,Product,train,4
+996,./OfficeHome/00996.jpg,Product,train,4
+997,./OfficeHome/00997.jpg,Product,train,4
+998,./OfficeHome/00998.jpg,Product,train,4
+999,./OfficeHome/00999.jpg,Product,train,4
+1000,./OfficeHome/01000.jpg,Product,train,4
+1001,./OfficeHome/01001.jpg,Product,train,4
+1002,./OfficeHome/01002.jpg,Product,train,4
+1003,./OfficeHome/01003.jpg,Product,train,4
+1004,./OfficeHome/01004.jpg,Product,train,4
+1005,./OfficeHome/01005.jpg,Product,train,4
+1006,./OfficeHome/01006.jpg,Product,train,4
+1007,./OfficeHome/01007.jpg,Product,train,4
+1008,./OfficeHome/01008.jpg,Product,valid,4
+1009,./OfficeHome/01009.jpg,Product,valid,4
+1010,./OfficeHome/01010.jpg,Product,valid,4
+1011,./OfficeHome/01011.jpg,Product,valid,4
+1012,./OfficeHome/01012.jpg,Product,valid,4
+1013,./OfficeHome/01013.jpg,Product,valid,4
+1014,./OfficeHome/01014.jpg,Product,valid,4
+1015,./OfficeHome/01015.jpg,Product,valid,4
+1016,./OfficeHome/01016.jpg,Product,train,5
+1017,./OfficeHome/01017.jpg,Product,train,5
+1018,./OfficeHome/01018.jpg,Product,train,5
+1019,./OfficeHome/01019.jpg,Product,train,5
+1020,./OfficeHome/01020.jpg,Product,train,5
+1021,./OfficeHome/01021.jpg,Product,train,5
+1022,./OfficeHome/01022.jpg,Product,train,5
+1023,./OfficeHome/01023.jpg,Product,train,5
+1024,./OfficeHome/01024.jpg,Product,train,5
+1025,./OfficeHome/01025.jpg,Product,train,5
+1026,./OfficeHome/01026.jpg,Product,train,5
+1027,./OfficeHome/01027.jpg,Product,train,5
+1028,./OfficeHome/01028.jpg,Product,train,5
+1029,./OfficeHome/01029.jpg,Product,train,5
+1030,./OfficeHome/01030.jpg,Product,train,5
+1031,./OfficeHome/01031.jpg,Product,train,5
+1032,./OfficeHome/01032.jpg,Product,train,5
+1033,./OfficeHome/01033.jpg,Product,train,5
+1034,./OfficeHome/01034.jpg,Product,train,5
+1035,./OfficeHome/01035.jpg,Product,train,5
+1036,./OfficeHome/01036.jpg,Product,train,5
+1037,./OfficeHome/01037.jpg,Product,train,5
+1038,./OfficeHome/01038.jpg,Product,train,5
+1039,./OfficeHome/01039.jpg,Product,train,5
+1040,./OfficeHome/01040.jpg,Product,train,5
+1041,./OfficeHome/01041.jpg,Product,train,5
+1042,./OfficeHome/01042.jpg,Product,valid,5
+1043,./OfficeHome/01043.jpg,Product,valid,5
+1044,./OfficeHome/01044.jpg,Product,valid,5
+1045,./OfficeHome/01045.jpg,Product,valid,5
+1046,./OfficeHome/01046.jpg,Product,valid,5
+1047,./OfficeHome/01047.jpg,Product,valid,5
+1048,./OfficeHome/01048.jpg,Product,train,6
+1049,./OfficeHome/01049.jpg,Product,train,6
+1050,./OfficeHome/01050.jpg,Product,train,6
+1051,./OfficeHome/01051.jpg,Product,train,6
+1052,./OfficeHome/01052.jpg,Product,train,6
+1053,./OfficeHome/01053.jpg,Product,train,6
+1054,./OfficeHome/01054.jpg,Product,train,6
+1055,./OfficeHome/01055.jpg,Product,train,6
+1056,./OfficeHome/01056.jpg,Product,train,6
+1057,./OfficeHome/01057.jpg,Product,train,6
+1058,./OfficeHome/01058.jpg,Product,train,6
+1059,./OfficeHome/01059.jpg,Product,train,6
+1060,./OfficeHome/01060.jpg,Product,train,6
+1061,./OfficeHome/01061.jpg,Product,train,6
+1062,./OfficeHome/01062.jpg,Product,train,6
+1063,./OfficeHome/01063.jpg,Product,train,6
+1064,./OfficeHome/01064.jpg,Product,train,6
+1065,./OfficeHome/01065.jpg,Product,train,6
+1066,./OfficeHome/01066.jpg,Product,train,6
+1067,./OfficeHome/01067.jpg,Product,train,6
+1068,./OfficeHome/01068.jpg,Product,train,6
+1069,./OfficeHome/01069.jpg,Product,train,6
+1070,./OfficeHome/01070.jpg,Product,train,6
+1071,./OfficeHome/01071.jpg,Product,train,6
+1072,./OfficeHome/01072.jpg,Product,train,6
+1073,./OfficeHome/01073.jpg,Product,train,6
+1074,./OfficeHome/01074.jpg,Product,train,6
+1075,./OfficeHome/01075.jpg,Product,train,6
+1076,./OfficeHome/01076.jpg,Product,train,6
+1077,./OfficeHome/01077.jpg,Product,valid,6
+1078,./OfficeHome/01078.jpg,Product,valid,6
+1079,./OfficeHome/01079.jpg,Product,valid,6
+1080,./OfficeHome/01080.jpg,Product,valid,6
+1081,./OfficeHome/01081.jpg,Product,valid,6
+1082,./OfficeHome/01082.jpg,Product,valid,6
+1083,./OfficeHome/01083.jpg,Product,valid,6
+1084,./OfficeHome/01084.jpg,Product,train,7
+1085,./OfficeHome/01085.jpg,Product,train,7
+1086,./OfficeHome/01086.jpg,Product,train,7
+1087,./OfficeHome/01087.jpg,Product,train,7
+1088,./OfficeHome/01088.jpg,Product,train,7
+1089,./OfficeHome/01089.jpg,Product,train,7
+1090,./OfficeHome/01090.jpg,Product,train,7
+1091,./OfficeHome/01091.jpg,Product,train,7
+1092,./OfficeHome/01092.jpg,Product,train,7
+1093,./OfficeHome/01093.jpg,Product,train,7
+1094,./OfficeHome/01094.jpg,Product,train,7
+1095,./OfficeHome/01095.jpg,Product,train,7
+1096,./OfficeHome/01096.jpg,Product,train,7
+1097,./OfficeHome/01097.jpg,Product,train,7
+1098,./OfficeHome/01098.jpg,Product,train,7
+1099,./OfficeHome/01099.jpg,Product,train,7
+1100,./OfficeHome/01100.jpg,Product,train,7
+1101,./OfficeHome/01101.jpg,Product,train,7
+1102,./OfficeHome/01102.jpg,Product,train,7
+1103,./OfficeHome/01103.jpg,Product,train,7
+1104,./OfficeHome/01104.jpg,Product,train,7
+1105,./OfficeHome/01105.jpg,Product,train,7
+1106,./OfficeHome/01106.jpg,Product,train,7
+1107,./OfficeHome/01107.jpg,Product,train,7
+1108,./OfficeHome/01108.jpg,Product,train,7
+1109,./OfficeHome/01109.jpg,Product,train,7
+1110,./OfficeHome/01110.jpg,Product,train,7
+1111,./OfficeHome/01111.jpg,Product,train,7
+1112,./OfficeHome/01112.jpg,Product,train,7
+1113,./OfficeHome/01113.jpg,Product,train,7
+1114,./OfficeHome/01114.jpg,Product,train,7
+1115,./OfficeHome/01115.jpg,Product,train,7
+1116,./OfficeHome/01116.jpg,Product,train,7
+1117,./OfficeHome/01117.jpg,Product,train,7
+1118,./OfficeHome/01118.jpg,Product,train,7
+1119,./OfficeHome/01119.jpg,Product,train,7
+1120,./OfficeHome/01120.jpg,Product,train,7
+1121,./OfficeHome/01121.jpg,Product,train,7
+1122,./OfficeHome/01122.jpg,Product,train,7
+1123,./OfficeHome/01123.jpg,Product,train,7
+1124,./OfficeHome/01124.jpg,Product,train,7
+1125,./OfficeHome/01125.jpg,Product,train,7
+1126,./OfficeHome/01126.jpg,Product,train,7
+1127,./OfficeHome/01127.jpg,Product,train,7
+1128,./OfficeHome/01128.jpg,Product,train,7
+1129,./OfficeHome/01129.jpg,Product,train,7
+1130,./OfficeHome/01130.jpg,Product,train,7
+1131,./OfficeHome/01131.jpg,Product,train,7
+1132,./OfficeHome/01132.jpg,Product,train,7
+1133,./OfficeHome/01133.jpg,Product,train,7
+1134,./OfficeHome/01134.jpg,Product,train,7
+1135,./OfficeHome/01135.jpg,Product,train,7
+1136,./OfficeHome/01136.jpg,Product,train,7
+1137,./OfficeHome/01137.jpg,Product,train,7
+1138,./OfficeHome/01138.jpg,Product,train,7
+1139,./OfficeHome/01139.jpg,Product,train,7
+1140,./OfficeHome/01140.jpg,Product,train,7
+1141,./OfficeHome/01141.jpg,Product,train,7
+1142,./OfficeHome/01142.jpg,Product,train,7
+1143,./OfficeHome/01143.jpg,Product,train,7
+1144,./OfficeHome/01144.jpg,Product,train,7
+1145,./OfficeHome/01145.jpg,Product,train,7
+1146,./OfficeHome/01146.jpg,Product,valid,7
+1147,./OfficeHome/01147.jpg,Product,valid,7
+1148,./OfficeHome/01148.jpg,Product,valid,7
+1149,./OfficeHome/01149.jpg,Product,valid,7
+1150,./OfficeHome/01150.jpg,Product,valid,7
+1151,./OfficeHome/01151.jpg,Product,valid,7
+1152,./OfficeHome/01152.jpg,Product,valid,7
+1153,./OfficeHome/01153.jpg,Product,valid,7
+1154,./OfficeHome/01154.jpg,Product,valid,7
+1155,./OfficeHome/01155.jpg,Product,valid,7
+1156,./OfficeHome/01156.jpg,Product,valid,7
+1157,./OfficeHome/01157.jpg,Product,valid,7
+1158,./OfficeHome/01158.jpg,Product,valid,7
+1159,./OfficeHome/01159.jpg,Product,valid,7
+1160,./OfficeHome/01160.jpg,Product,valid,7
+1161,./OfficeHome/01161.jpg,Product,valid,7
+1162,./OfficeHome/01162.jpg,Product,train,8
+1163,./OfficeHome/01163.jpg,Product,train,8
+1164,./OfficeHome/01164.jpg,Product,train,8
+1165,./OfficeHome/01165.jpg,Product,train,8
+1166,./OfficeHome/01166.jpg,Product,train,8
+1167,./OfficeHome/01167.jpg,Product,train,8
+1168,./OfficeHome/01168.jpg,Product,train,8
+1169,./OfficeHome/01169.jpg,Product,train,8
+1170,./OfficeHome/01170.jpg,Product,train,8
+1171,./OfficeHome/01171.jpg,Product,train,8
+1172,./OfficeHome/01172.jpg,Product,train,8
+1173,./OfficeHome/01173.jpg,Product,train,8
+1174,./OfficeHome/01174.jpg,Product,train,8
+1175,./OfficeHome/01175.jpg,Product,train,8
+1176,./OfficeHome/01176.jpg,Product,train,8
+1177,./OfficeHome/01177.jpg,Product,train,8
+1178,./OfficeHome/01178.jpg,Product,train,8
+1179,./OfficeHome/01179.jpg,Product,train,8
+1180,./OfficeHome/01180.jpg,Product,train,8
+1181,./OfficeHome/01181.jpg,Product,train,8
+1182,./OfficeHome/01182.jpg,Product,train,8
+1183,./OfficeHome/01183.jpg,Product,train,8
+1184,./OfficeHome/01184.jpg,Product,train,8
+1185,./OfficeHome/01185.jpg,Product,train,8
+1186,./OfficeHome/01186.jpg,Product,train,8
+1187,./OfficeHome/01187.jpg,Product,train,8
+1188,./OfficeHome/01188.jpg,Product,train,8
+1189,./OfficeHome/01189.jpg,Product,train,8
+1190,./OfficeHome/01190.jpg,Product,valid,8
+1191,./OfficeHome/01191.jpg,Product,valid,8
+1192,./OfficeHome/01192.jpg,Product,valid,8
+1193,./OfficeHome/01193.jpg,Product,valid,8
+1194,./OfficeHome/01194.jpg,Product,valid,8
+1195,./OfficeHome/01195.jpg,Product,valid,8
+1196,./OfficeHome/01196.jpg,Product,valid,8
+1197,./OfficeHome/01197.jpg,Product,train,9
+1198,./OfficeHome/01198.jpg,Product,train,9
+1199,./OfficeHome/01199.jpg,Product,train,9
+1200,./OfficeHome/01200.jpg,Product,train,9
+1201,./OfficeHome/01201.jpg,Product,train,9
+1202,./OfficeHome/01202.jpg,Product,train,9
+1203,./OfficeHome/01203.jpg,Product,train,9
+1204,./OfficeHome/01204.jpg,Product,train,9
+1205,./OfficeHome/01205.jpg,Product,train,9
+1206,./OfficeHome/01206.jpg,Product,train,9
+1207,./OfficeHome/01207.jpg,Product,train,9
+1208,./OfficeHome/01208.jpg,Product,train,9
+1209,./OfficeHome/01209.jpg,Product,train,9
+1210,./OfficeHome/01210.jpg,Product,train,9
+1211,./OfficeHome/01211.jpg,Product,train,9
+1212,./OfficeHome/01212.jpg,Product,train,9
+1213,./OfficeHome/01213.jpg,Product,train,9
+1214,./OfficeHome/01214.jpg,Product,train,9
+1215,./OfficeHome/01215.jpg,Product,train,9
+1216,./OfficeHome/01216.jpg,Product,train,9
+1217,./OfficeHome/01217.jpg,Product,train,9
+1218,./OfficeHome/01218.jpg,Product,train,9
+1219,./OfficeHome/01219.jpg,Product,train,9
+1220,./OfficeHome/01220.jpg,Product,train,9
+1221,./OfficeHome/01221.jpg,Product,train,9
+1222,./OfficeHome/01222.jpg,Product,train,9
+1223,./OfficeHome/01223.jpg,Product,train,9
+1224,./OfficeHome/01224.jpg,Product,train,9
+1225,./OfficeHome/01225.jpg,Product,train,9
+1226,./OfficeHome/01226.jpg,Product,train,9
+1227,./OfficeHome/01227.jpg,Product,train,9
+1228,./OfficeHome/01228.jpg,Product,train,9
+1229,./OfficeHome/01229.jpg,Product,train,9
+1230,./OfficeHome/01230.jpg,Product,valid,9
+1231,./OfficeHome/01231.jpg,Product,valid,9
+1232,./OfficeHome/01232.jpg,Product,valid,9
+1233,./OfficeHome/01233.jpg,Product,valid,9
+1234,./OfficeHome/01234.jpg,Product,valid,9
+1235,./OfficeHome/01235.jpg,Product,valid,9
+1236,./OfficeHome/01236.jpg,Product,valid,9
+1237,./OfficeHome/01237.jpg,Product,valid,9
+1238,./OfficeHome/01238.jpg,Real World,train,0
+1239,./OfficeHome/01239.jpg,Real World,train,0
+1240,./OfficeHome/01240.jpg,Real World,train,0
+1241,./OfficeHome/01241.jpg,Real World,train,0
+1242,./OfficeHome/01242.jpg,Real World,train,0
+1243,./OfficeHome/01243.jpg,Real World,train,0
+1244,./OfficeHome/01244.jpg,Real World,train,0
+1245,./OfficeHome/01245.jpg,Real World,train,0
+1246,./OfficeHome/01246.jpg,Real World,train,0
+1247,./OfficeHome/01247.jpg,Real World,train,0
+1248,./OfficeHome/01248.jpg,Real World,train,0
+1249,./OfficeHome/01249.jpg,Real World,train,0
+1250,./OfficeHome/01250.jpg,Real World,train,0
+1251,./OfficeHome/01251.jpg,Real World,train,0
+1252,./OfficeHome/01252.jpg,Real World,train,0
+1253,./OfficeHome/01253.jpg,Real World,train,0
+1254,./OfficeHome/01254.jpg,Real World,train,0
+1255,./OfficeHome/01255.jpg,Real World,train,0
+1256,./OfficeHome/01256.jpg,Real World,train,0
+1257,./OfficeHome/01257.jpg,Real World,train,0
+1258,./OfficeHome/01258.jpg,Real World,train,0
+1259,./OfficeHome/01259.jpg,Real World,train,0
+1260,./OfficeHome/01260.jpg,Real World,train,0
+1261,./OfficeHome/01261.jpg,Real World,train,0
+1262,./OfficeHome/01262.jpg,Real World,train,0
+1263,./OfficeHome/01263.jpg,Real World,train,0
+1264,./OfficeHome/01264.jpg,Real World,train,0
+1265,./OfficeHome/01265.jpg,Real World,train,0
+1266,./OfficeHome/01266.jpg,Real World,train,0
+1267,./OfficeHome/01267.jpg,Real World,train,0
+1268,./OfficeHome/01268.jpg,Real World,train,0
+1269,./OfficeHome/01269.jpg,Real World,train,0
+1270,./OfficeHome/01270.jpg,Real World,train,0
+1271,./OfficeHome/01271.jpg,Real World,train,0
+1272,./OfficeHome/01272.jpg,Real World,train,0
+1273,./OfficeHome/01273.jpg,Real World,train,0
+1274,./OfficeHome/01274.jpg,Real World,train,0
+1275,./OfficeHome/01275.jpg,Real World,train,0
+1276,./OfficeHome/01276.jpg,Real World,train,0
+1277,./OfficeHome/01277.jpg,Real World,train,0
+1278,./OfficeHome/01278.jpg,Real World,train,0
+1279,./OfficeHome/01279.jpg,Real World,train,0
+1280,./OfficeHome/01280.jpg,Real World,train,0
+1281,./OfficeHome/01281.jpg,Real World,train,0
+1282,./OfficeHome/01282.jpg,Real World,train,0
+1283,./OfficeHome/01283.jpg,Real World,train,0
+1284,./OfficeHome/01284.jpg,Real World,train,0
+1285,./OfficeHome/01285.jpg,Real World,train,0
+1286,./OfficeHome/01286.jpg,Real World,train,0
+1287,./OfficeHome/01287.jpg,Real World,train,0
+1288,./OfficeHome/01288.jpg,Real World,train,0
+1289,./OfficeHome/01289.jpg,Real World,train,0
+1290,./OfficeHome/01290.jpg,Real World,train,0
+1291,./OfficeHome/01291.jpg,Real World,train,0
+1292,./OfficeHome/01292.jpg,Real World,train,0
+1293,./OfficeHome/01293.jpg,Real World,train,0
+1294,./OfficeHome/01294.jpg,Real World,valid,0
+1295,./OfficeHome/01295.jpg,Real World,valid,0
+1296,./OfficeHome/01296.jpg,Real World,valid,0
+1297,./OfficeHome/01297.jpg,Real World,valid,0
+1298,./OfficeHome/01298.jpg,Real World,valid,0
+1299,./OfficeHome/01299.jpg,Real World,valid,0
+1300,./OfficeHome/01300.jpg,Real World,valid,0
+1301,./OfficeHome/01301.jpg,Real World,valid,0
+1302,./OfficeHome/01302.jpg,Real World,valid,0
+1303,./OfficeHome/01303.jpg,Real World,valid,0
+1304,./OfficeHome/01304.jpg,Real World,valid,0
+1305,./OfficeHome/01305.jpg,Real World,valid,0
+1306,./OfficeHome/01306.jpg,Real World,valid,0
+1307,./OfficeHome/01307.jpg,Real World,valid,0
+1308,./OfficeHome/01308.jpg,Real World,train,1
+1309,./OfficeHome/01309.jpg,Real World,train,1
+1310,./OfficeHome/01310.jpg,Real World,train,1
+1311,./OfficeHome/01311.jpg,Real World,train,1
+1312,./OfficeHome/01312.jpg,Real World,train,1
+1313,./OfficeHome/01313.jpg,Real World,train,1
+1314,./OfficeHome/01314.jpg,Real World,train,1
+1315,./OfficeHome/01315.jpg,Real World,train,1
+1316,./OfficeHome/01316.jpg,Real World,train,1
+1317,./OfficeHome/01317.jpg,Real World,train,1
+1318,./OfficeHome/01318.jpg,Real World,train,1
+1319,./OfficeHome/01319.jpg,Real World,train,1
+1320,./OfficeHome/01320.jpg,Real World,train,1
+1321,./OfficeHome/01321.jpg,Real World,train,1
+1322,./OfficeHome/01322.jpg,Real World,train,1
+1323,./OfficeHome/01323.jpg,Real World,train,1
+1324,./OfficeHome/01324.jpg,Real World,train,1
+1325,./OfficeHome/01325.jpg,Real World,train,1
+1326,./OfficeHome/01326.jpg,Real World,train,1
+1327,./OfficeHome/01327.jpg,Real World,train,1
+1328,./OfficeHome/01328.jpg,Real World,train,1
+1329,./OfficeHome/01329.jpg,Real World,train,1
+1330,./OfficeHome/01330.jpg,Real World,train,1
+1331,./OfficeHome/01331.jpg,Real World,train,1
+1332,./OfficeHome/01332.jpg,Real World,train,1
+1333,./OfficeHome/01333.jpg,Real World,train,1
+1334,./OfficeHome/01334.jpg,Real World,train,1
+1335,./OfficeHome/01335.jpg,Real World,train,1
+1336,./OfficeHome/01336.jpg,Real World,train,1
+1337,./OfficeHome/01337.jpg,Real World,train,1
+1338,./OfficeHome/01338.jpg,Real World,train,1
+1339,./OfficeHome/01339.jpg,Real World,train,1
+1340,./OfficeHome/01340.jpg,Real World,train,1
+1341,./OfficeHome/01341.jpg,Real World,train,1
+1342,./OfficeHome/01342.jpg,Real World,train,1
+1343,./OfficeHome/01343.jpg,Real World,train,1
+1344,./OfficeHome/01344.jpg,Real World,train,1
+1345,./OfficeHome/01345.jpg,Real World,train,1
+1346,./OfficeHome/01346.jpg,Real World,train,1
+1347,./OfficeHome/01347.jpg,Real World,valid,1
+1348,./OfficeHome/01348.jpg,Real World,valid,1
+1349,./OfficeHome/01349.jpg,Real World,valid,1
+1350,./OfficeHome/01350.jpg,Real World,valid,1
+1351,./OfficeHome/01351.jpg,Real World,valid,1
+1352,./OfficeHome/01352.jpg,Real World,valid,1
+1353,./OfficeHome/01353.jpg,Real World,valid,1
+1354,./OfficeHome/01354.jpg,Real World,valid,1
+1355,./OfficeHome/01355.jpg,Real World,valid,1
+1356,./OfficeHome/01356.jpg,Real World,valid,1
+1357,./OfficeHome/01357.jpg,Real World,train,2
+1358,./OfficeHome/01358.jpg,Real World,train,2
+1359,./OfficeHome/01359.jpg,Real World,train,2
+1360,./OfficeHome/01360.jpg,Real World,train,2
+1361,./OfficeHome/01361.jpg,Real World,train,2
+1362,./OfficeHome/01362.jpg,Real World,train,2
+1363,./OfficeHome/01363.jpg,Real World,train,2
+1364,./OfficeHome/01364.jpg,Real World,train,2
+1365,./OfficeHome/01365.jpg,Real World,train,2
+1366,./OfficeHome/01366.jpg,Real World,train,2
+1367,./OfficeHome/01367.jpg,Real World,train,2
+1368,./OfficeHome/01368.jpg,Real World,train,2
+1369,./OfficeHome/01369.jpg,Real World,train,2
+1370,./OfficeHome/01370.jpg,Real World,train,2
+1371,./OfficeHome/01371.jpg,Real World,train,2
+1372,./OfficeHome/01372.jpg,Real World,train,2
+1373,./OfficeHome/01373.jpg,Real World,train,2
+1374,./OfficeHome/01374.jpg,Real World,train,2
+1375,./OfficeHome/01375.jpg,Real World,train,2
+1376,./OfficeHome/01376.jpg,Real World,train,2
+1377,./OfficeHome/01377.jpg,Real World,train,2
+1378,./OfficeHome/01378.jpg,Real World,train,2
+1379,./OfficeHome/01379.jpg,Real World,train,2
+1380,./OfficeHome/01380.jpg,Real World,train,2
+1381,./OfficeHome/01381.jpg,Real World,train,2
+1382,./OfficeHome/01382.jpg,Real World,train,2
+1383,./OfficeHome/01383.jpg,Real World,train,2
+1384,./OfficeHome/01384.jpg,Real World,train,2
+1385,./OfficeHome/01385.jpg,Real World,train,2
+1386,./OfficeHome/01386.jpg,Real World,train,2
+1387,./OfficeHome/01387.jpg,Real World,train,2
+1388,./OfficeHome/01388.jpg,Real World,train,2
+1389,./OfficeHome/01389.jpg,Real World,train,2
+1390,./OfficeHome/01390.jpg,Real World,valid,2
+1391,./OfficeHome/01391.jpg,Real World,valid,2
+1392,./OfficeHome/01392.jpg,Real World,valid,2
+1393,./OfficeHome/01393.jpg,Real World,valid,2
+1394,./OfficeHome/01394.jpg,Real World,valid,2
+1395,./OfficeHome/01395.jpg,Real World,valid,2
+1396,./OfficeHome/01396.jpg,Real World,valid,2
+1397,./OfficeHome/01397.jpg,Real World,valid,2
+1398,./OfficeHome/01398.jpg,Real World,train,3
+1399,./OfficeHome/01399.jpg,Real World,train,3
+1400,./OfficeHome/01400.jpg,Real World,train,3
+1401,./OfficeHome/01401.jpg,Real World,train,3
+1402,./OfficeHome/01402.jpg,Real World,train,3
+1403,./OfficeHome/01403.jpg,Real World,train,3
+1404,./OfficeHome/01404.jpg,Real World,train,3
+1405,./OfficeHome/01405.jpg,Real World,train,3
+1406,./OfficeHome/01406.jpg,Real World,train,3
+1407,./OfficeHome/01407.jpg,Real World,train,3
+1408,./OfficeHome/01408.jpg,Real World,train,3
+1409,./OfficeHome/01409.jpg,Real World,train,3
+1410,./OfficeHome/01410.jpg,Real World,train,3
+1411,./OfficeHome/01411.jpg,Real World,train,3
+1412,./OfficeHome/01412.jpg,Real World,train,3
+1413,./OfficeHome/01413.jpg,Real World,train,3
+1414,./OfficeHome/01414.jpg,Real World,train,3
+1415,./OfficeHome/01415.jpg,Real World,train,3
+1416,./OfficeHome/01416.jpg,Real World,train,3
+1417,./OfficeHome/01417.jpg,Real World,train,3
+1418,./OfficeHome/01418.jpg,Real World,train,3
+1419,./OfficeHome/01419.jpg,Real World,train,3
+1420,./OfficeHome/01420.jpg,Real World,train,3
+1421,./OfficeHome/01421.jpg,Real World,train,3
+1422,./OfficeHome/01422.jpg,Real World,train,3
+1423,./OfficeHome/01423.jpg,Real World,train,3
+1424,./OfficeHome/01424.jpg,Real World,train,3
+1425,./OfficeHome/01425.jpg,Real World,train,3
+1426,./OfficeHome/01426.jpg,Real World,train,3
+1427,./OfficeHome/01427.jpg,Real World,train,3
+1428,./OfficeHome/01428.jpg,Real World,train,3
+1429,./OfficeHome/01429.jpg,Real World,train,3
+1430,./OfficeHome/01430.jpg,Real World,train,3
+1431,./OfficeHome/01431.jpg,Real World,train,3
+1432,./OfficeHome/01432.jpg,Real World,valid,3
+1433,./OfficeHome/01433.jpg,Real World,valid,3
+1434,./OfficeHome/01434.jpg,Real World,valid,3
+1435,./OfficeHome/01435.jpg,Real World,valid,3
+1436,./OfficeHome/01436.jpg,Real World,valid,3
+1437,./OfficeHome/01437.jpg,Real World,valid,3
+1438,./OfficeHome/01438.jpg,Real World,valid,3
+1439,./OfficeHome/01439.jpg,Real World,valid,3
+1440,./OfficeHome/01440.jpg,Real World,valid,3
+1441,./OfficeHome/01441.jpg,Real World,train,4
+1442,./OfficeHome/01442.jpg,Real World,train,4
+1443,./OfficeHome/01443.jpg,Real World,train,4
+1444,./OfficeHome/01444.jpg,Real World,train,4
+1445,./OfficeHome/01445.jpg,Real World,train,4
+1446,./OfficeHome/01446.jpg,Real World,train,4
+1447,./OfficeHome/01447.jpg,Real World,train,4
+1448,./OfficeHome/01448.jpg,Real World,train,4
+1449,./OfficeHome/01449.jpg,Real World,train,4
+1450,./OfficeHome/01450.jpg,Real World,train,4
+1451,./OfficeHome/01451.jpg,Real World,train,4
+1452,./OfficeHome/01452.jpg,Real World,train,4
+1453,./OfficeHome/01453.jpg,Real World,train,4
+1454,./OfficeHome/01454.jpg,Real World,train,4
+1455,./OfficeHome/01455.jpg,Real World,train,4
+1456,./OfficeHome/01456.jpg,Real World,train,4
+1457,./OfficeHome/01457.jpg,Real World,train,4
+1458,./OfficeHome/01458.jpg,Real World,train,4
+1459,./OfficeHome/01459.jpg,Real World,train,4
+1460,./OfficeHome/01460.jpg,Real World,train,4
+1461,./OfficeHome/01461.jpg,Real World,train,4
+1462,./OfficeHome/01462.jpg,Real World,train,4
+1463,./OfficeHome/01463.jpg,Real World,train,4
+1464,./OfficeHome/01464.jpg,Real World,train,4
+1465,./OfficeHome/01465.jpg,Real World,train,4
+1466,./OfficeHome/01466.jpg,Real World,train,4
+1467,./OfficeHome/01467.jpg,Real World,train,4
+1468,./OfficeHome/01468.jpg,Real World,train,4
+1469,./OfficeHome/01469.jpg,Real World,train,4
+1470,./OfficeHome/01470.jpg,Real World,train,4
+1471,./OfficeHome/01471.jpg,Real World,train,4
+1472,./OfficeHome/01472.jpg,Real World,train,4
+1473,./OfficeHome/01473.jpg,Real World,train,4
+1474,./OfficeHome/01474.jpg,Real World,train,4
+1475,./OfficeHome/01475.jpg,Real World,train,4
+1476,./OfficeHome/01476.jpg,Real World,train,4
+1477,./OfficeHome/01477.jpg,Real World,train,4
+1478,./OfficeHome/01478.jpg,Real World,train,4
+1479,./OfficeHome/01479.jpg,Real World,train,4
+1480,./OfficeHome/01480.jpg,Real World,train,4
+1481,./OfficeHome/01481.jpg,Real World,train,4
+1482,./OfficeHome/01482.jpg,Real World,train,4
+1483,./OfficeHome/01483.jpg,Real World,train,4
+1484,./OfficeHome/01484.jpg,Real World,train,4
+1485,./OfficeHome/01485.jpg,Real World,train,4
+1486,./OfficeHome/01486.jpg,Real World,valid,4
+1487,./OfficeHome/01487.jpg,Real World,valid,4
+1488,./OfficeHome/01488.jpg,Real World,valid,4
+1489,./OfficeHome/01489.jpg,Real World,valid,4
+1490,./OfficeHome/01490.jpg,Real World,valid,4
+1491,./OfficeHome/01491.jpg,Real World,valid,4
+1492,./OfficeHome/01492.jpg,Real World,valid,4
+1493,./OfficeHome/01493.jpg,Real World,valid,4
+1494,./OfficeHome/01494.jpg,Real World,valid,4
+1495,./OfficeHome/01495.jpg,Real World,valid,4
+1496,./OfficeHome/01496.jpg,Real World,valid,4
+1497,./OfficeHome/01497.jpg,Real World,train,5
+1498,./OfficeHome/01498.jpg,Real World,train,5
+1499,./OfficeHome/01499.jpg,Real World,train,5
+1500,./OfficeHome/01500.jpg,Real World,train,5
+1501,./OfficeHome/01501.jpg,Real World,train,5
+1502,./OfficeHome/01502.jpg,Real World,train,5
+1503,./OfficeHome/01503.jpg,Real World,train,5
+1504,./OfficeHome/01504.jpg,Real World,train,5
+1505,./OfficeHome/01505.jpg,Real World,train,5
+1506,./OfficeHome/01506.jpg,Real World,train,5
+1507,./OfficeHome/01507.jpg,Real World,train,5
+1508,./OfficeHome/01508.jpg,Real World,train,5
+1509,./OfficeHome/01509.jpg,Real World,train,5
+1510,./OfficeHome/01510.jpg,Real World,train,5
+1511,./OfficeHome/01511.jpg,Real World,train,5
+1512,./OfficeHome/01512.jpg,Real World,train,5
+1513,./OfficeHome/01513.jpg,Real World,train,5
+1514,./OfficeHome/01514.jpg,Real World,train,5
+1515,./OfficeHome/01515.jpg,Real World,train,5
+1516,./OfficeHome/01516.jpg,Real World,train,5
+1517,./OfficeHome/01517.jpg,Real World,train,5
+1518,./OfficeHome/01518.jpg,Real World,train,5
+1519,./OfficeHome/01519.jpg,Real World,train,5
+1520,./OfficeHome/01520.jpg,Real World,train,5
+1521,./OfficeHome/01521.jpg,Real World,train,5
+1522,./OfficeHome/01522.jpg,Real World,train,5
+1523,./OfficeHome/01523.jpg,Real World,train,5
+1524,./OfficeHome/01524.jpg,Real World,train,5
+1525,./OfficeHome/01525.jpg,Real World,train,5
+1526,./OfficeHome/01526.jpg,Real World,train,5
+1527,./OfficeHome/01527.jpg,Real World,train,5
+1528,./OfficeHome/01528.jpg,Real World,train,5
+1529,./OfficeHome/01529.jpg,Real World,train,5
+1530,./OfficeHome/01530.jpg,Real World,train,5
+1531,./OfficeHome/01531.jpg,Real World,train,5
+1532,./OfficeHome/01532.jpg,Real World,train,5
+1533,./OfficeHome/01533.jpg,Real World,train,5
+1534,./OfficeHome/01534.jpg,Real World,train,5
+1535,./OfficeHome/01535.jpg,Real World,train,5
+1536,./OfficeHome/01536.jpg,Real World,train,5
+1537,./OfficeHome/01537.jpg,Real World,train,5
+1538,./OfficeHome/01538.jpg,Real World,train,5
+1539,./OfficeHome/01539.jpg,Real World,train,5
+1540,./OfficeHome/01540.jpg,Real World,train,5
+1541,./OfficeHome/01541.jpg,Real World,train,5
+1542,./OfficeHome/01542.jpg,Real World,valid,5
+1543,./OfficeHome/01543.jpg,Real World,valid,5
+1544,./OfficeHome/01544.jpg,Real World,valid,5
+1545,./OfficeHome/01545.jpg,Real World,valid,5
+1546,./OfficeHome/01546.jpg,Real World,valid,5
+1547,./OfficeHome/01547.jpg,Real World,valid,5
+1548,./OfficeHome/01548.jpg,Real World,valid,5
+1549,./OfficeHome/01549.jpg,Real World,valid,5
+1550,./OfficeHome/01550.jpg,Real World,valid,5
+1551,./OfficeHome/01551.jpg,Real World,valid,5
+1552,./OfficeHome/01552.jpg,Real World,valid,5
+1553,./OfficeHome/01553.jpg,Real World,train,6
+1554,./OfficeHome/01554.jpg,Real World,train,6
+1555,./OfficeHome/01555.jpg,Real World,train,6
+1556,./OfficeHome/01556.jpg,Real World,train,6
+1557,./OfficeHome/01557.jpg,Real World,train,6
+1558,./OfficeHome/01558.jpg,Real World,train,6
+1559,./OfficeHome/01559.jpg,Real World,train,6
+1560,./OfficeHome/01560.jpg,Real World,train,6
+1561,./OfficeHome/01561.jpg,Real World,train,6
+1562,./OfficeHome/01562.jpg,Real World,train,6
+1563,./OfficeHome/01563.jpg,Real World,train,6
+1564,./OfficeHome/01564.jpg,Real World,train,6
+1565,./OfficeHome/01565.jpg,Real World,train,6
+1566,./OfficeHome/01566.jpg,Real World,train,6
+1567,./OfficeHome/01567.jpg,Real World,train,6
+1568,./OfficeHome/01568.jpg,Real World,train,6
+1569,./OfficeHome/01569.jpg,Real World,train,6
+1570,./OfficeHome/01570.jpg,Real World,train,6
+1571,./OfficeHome/01571.jpg,Real World,train,6
+1572,./OfficeHome/01572.jpg,Real World,train,6
+1573,./OfficeHome/01573.jpg,Real World,train,6
+1574,./OfficeHome/01574.jpg,Real World,train,6
+1575,./OfficeHome/01575.jpg,Real World,train,6
+1576,./OfficeHome/01576.jpg,Real World,train,6
+1577,./OfficeHome/01577.jpg,Real World,train,6
+1578,./OfficeHome/01578.jpg,Real World,train,6
+1579,./OfficeHome/01579.jpg,Real World,train,6
+1580,./OfficeHome/01580.jpg,Real World,train,6
+1581,./OfficeHome/01581.jpg,Real World,train,6
+1582,./OfficeHome/01582.jpg,Real World,train,6
+1583,./OfficeHome/01583.jpg,Real World,train,6
+1584,./OfficeHome/01584.jpg,Real World,train,6
+1585,./OfficeHome/01585.jpg,Real World,train,6
+1586,./OfficeHome/01586.jpg,Real World,train,6
+1587,./OfficeHome/01587.jpg,Real World,train,6
+1588,./OfficeHome/01588.jpg,Real World,train,6
+1589,./OfficeHome/01589.jpg,Real World,train,6
+1590,./OfficeHome/01590.jpg,Real World,train,6
+1591,./OfficeHome/01591.jpg,Real World,train,6
+1592,./OfficeHome/01592.jpg,Real World,train,6
+1593,./OfficeHome/01593.jpg,Real World,train,6
+1594,./OfficeHome/01594.jpg,Real World,train,6
+1595,./OfficeHome/01595.jpg,Real World,valid,6
+1596,./OfficeHome/01596.jpg,Real World,valid,6
+1597,./OfficeHome/01597.jpg,Real World,valid,6
+1598,./OfficeHome/01598.jpg,Real World,valid,6
+1599,./OfficeHome/01599.jpg,Real World,valid,6
+1600,./OfficeHome/01600.jpg,Real World,valid,6
+1601,./OfficeHome/01601.jpg,Real World,valid,6
+1602,./OfficeHome/01602.jpg,Real World,valid,6
+1603,./OfficeHome/01603.jpg,Real World,valid,6
+1604,./OfficeHome/01604.jpg,Real World,valid,6
+1605,./OfficeHome/01605.jpg,Real World,valid,6
+1606,./OfficeHome/01606.jpg,Real World,train,7
+1607,./OfficeHome/01607.jpg,Real World,train,7
+1608,./OfficeHome/01608.jpg,Real World,train,7
+1609,./OfficeHome/01609.jpg,Real World,train,7
+1610,./OfficeHome/01610.jpg,Real World,train,7
+1611,./OfficeHome/01611.jpg,Real World,train,7
+1612,./OfficeHome/01612.jpg,Real World,train,7
+1613,./OfficeHome/01613.jpg,Real World,train,7
+1614,./OfficeHome/01614.jpg,Real World,train,7
+1615,./OfficeHome/01615.jpg,Real World,train,7
+1616,./OfficeHome/01616.jpg,Real World,train,7
+1617,./OfficeHome/01617.jpg,Real World,train,7
+1618,./OfficeHome/01618.jpg,Real World,train,7
+1619,./OfficeHome/01619.jpg,Real World,train,7
+1620,./OfficeHome/01620.jpg,Real World,train,7
+1621,./OfficeHome/01621.jpg,Real World,train,7
+1622,./OfficeHome/01622.jpg,Real World,train,7
+1623,./OfficeHome/01623.jpg,Real World,train,7
+1624,./OfficeHome/01624.jpg,Real World,train,7
+1625,./OfficeHome/01625.jpg,Real World,train,7
+1626,./OfficeHome/01626.jpg,Real World,train,7
+1627,./OfficeHome/01627.jpg,Real World,train,7
+1628,./OfficeHome/01628.jpg,Real World,train,7
+1629,./OfficeHome/01629.jpg,Real World,train,7
+1630,./OfficeHome/01630.jpg,Real World,train,7
+1631,./OfficeHome/01631.jpg,Real World,train,7
+1632,./OfficeHome/01632.jpg,Real World,train,7
+1633,./OfficeHome/01633.jpg,Real World,train,7
+1634,./OfficeHome/01634.jpg,Real World,train,7
+1635,./OfficeHome/01635.jpg,Real World,train,7
+1636,./OfficeHome/01636.jpg,Real World,train,7
+1637,./OfficeHome/01637.jpg,Real World,train,7
+1638,./OfficeHome/01638.jpg,Real World,train,7
+1639,./OfficeHome/01639.jpg,Real World,train,7
+1640,./OfficeHome/01640.jpg,Real World,train,7
+1641,./OfficeHome/01641.jpg,Real World,train,7
+1642,./OfficeHome/01642.jpg,Real World,train,7
+1643,./OfficeHome/01643.jpg,Real World,train,7
+1644,./OfficeHome/01644.jpg,Real World,train,7
+1645,./OfficeHome/01645.jpg,Real World,train,7
+1646,./OfficeHome/01646.jpg,Real World,train,7
+1647,./OfficeHome/01647.jpg,Real World,train,7
+1648,./OfficeHome/01648.jpg,Real World,train,7
+1649,./OfficeHome/01649.jpg,Real World,train,7
+1650,./OfficeHome/01650.jpg,Real World,train,7
+1651,./OfficeHome/01651.jpg,Real World,train,7
+1652,./OfficeHome/01652.jpg,Real World,train,7
+1653,./OfficeHome/01653.jpg,Real World,train,7
+1654,./OfficeHome/01654.jpg,Real World,train,7
+1655,./OfficeHome/01655.jpg,Real World,train,7
+1656,./OfficeHome/01656.jpg,Real World,train,7
+1657,./OfficeHome/01657.jpg,Real World,train,7
+1658,./OfficeHome/01658.jpg,Real World,train,7
+1659,./OfficeHome/01659.jpg,Real World,train,7
+1660,./OfficeHome/01660.jpg,Real World,valid,7
+1661,./OfficeHome/01661.jpg,Real World,valid,7
+1662,./OfficeHome/01662.jpg,Real World,valid,7
+1663,./OfficeHome/01663.jpg,Real World,valid,7
+1664,./OfficeHome/01664.jpg,Real World,valid,7
+1665,./OfficeHome/01665.jpg,Real World,valid,7
+1666,./OfficeHome/01666.jpg,Real World,valid,7
+1667,./OfficeHome/01667.jpg,Real World,valid,7
+1668,./OfficeHome/01668.jpg,Real World,valid,7
+1669,./OfficeHome/01669.jpg,Real World,valid,7
+1670,./OfficeHome/01670.jpg,Real World,valid,7
+1671,./OfficeHome/01671.jpg,Real World,valid,7
+1672,./OfficeHome/01672.jpg,Real World,valid,7
+1673,./OfficeHome/01673.jpg,Real World,valid,7
+1674,./OfficeHome/01674.jpg,Real World,train,8
+1675,./OfficeHome/01675.jpg,Real World,train,8
+1676,./OfficeHome/01676.jpg,Real World,train,8
+1677,./OfficeHome/01677.jpg,Real World,train,8
+1678,./OfficeHome/01678.jpg,Real World,train,8
+1679,./OfficeHome/01679.jpg,Real World,train,8
+1680,./OfficeHome/01680.jpg,Real World,train,8
+1681,./OfficeHome/01681.jpg,Real World,train,8
+1682,./OfficeHome/01682.jpg,Real World,train,8
+1683,./OfficeHome/01683.jpg,Real World,train,8
+1684,./OfficeHome/01684.jpg,Real World,train,8
+1685,./OfficeHome/01685.jpg,Real World,train,8
+1686,./OfficeHome/01686.jpg,Real World,train,8
+1687,./OfficeHome/01687.jpg,Real World,train,8
+1688,./OfficeHome/01688.jpg,Real World,train,8
+1689,./OfficeHome/01689.jpg,Real World,train,8
+1690,./OfficeHome/01690.jpg,Real World,train,8
+1691,./OfficeHome/01691.jpg,Real World,train,8
+1692,./OfficeHome/01692.jpg,Real World,train,8
+1693,./OfficeHome/01693.jpg,Real World,train,8
+1694,./OfficeHome/01694.jpg,Real World,train,8
+1695,./OfficeHome/01695.jpg,Real World,train,8
+1696,./OfficeHome/01696.jpg,Real World,train,8
+1697,./OfficeHome/01697.jpg,Real World,train,8
+1698,./OfficeHome/01698.jpg,Real World,train,8
+1699,./OfficeHome/01699.jpg,Real World,train,8
+1700,./OfficeHome/01700.jpg,Real World,train,8
+1701,./OfficeHome/01701.jpg,Real World,train,8
+1702,./OfficeHome/01702.jpg,Real World,train,8
+1703,./OfficeHome/01703.jpg,Real World,train,8
+1704,./OfficeHome/01704.jpg,Real World,train,8
+1705,./OfficeHome/01705.jpg,Real World,train,8
+1706,./OfficeHome/01706.jpg,Real World,train,8
+1707,./OfficeHome/01707.jpg,Real World,train,8
+1708,./OfficeHome/01708.jpg,Real World,train,8
+1709,./OfficeHome/01709.jpg,Real World,train,8
+1710,./OfficeHome/01710.jpg,Real World,train,8
+1711,./OfficeHome/01711.jpg,Real World,train,8
+1712,./OfficeHome/01712.jpg,Real World,train,8
+1713,./OfficeHome/01713.jpg,Real World,train,8
+1714,./OfficeHome/01714.jpg,Real World,train,8
+1715,./OfficeHome/01715.jpg,Real World,train,8
+1716,./OfficeHome/01716.jpg,Real World,train,8
+1717,./OfficeHome/01717.jpg,Real World,train,8
+1718,./OfficeHome/01718.jpg,Real World,train,8
+1719,./OfficeHome/01719.jpg,Real World,train,8
+1720,./OfficeHome/01720.jpg,Real World,train,8
+1721,./OfficeHome/01721.jpg,Real World,train,8
+1722,./OfficeHome/01722.jpg,Real World,train,8
+1723,./OfficeHome/01723.jpg,Real World,train,8
+1724,./OfficeHome/01724.jpg,Real World,train,8
+1725,./OfficeHome/01725.jpg,Real World,train,8
+1726,./OfficeHome/01726.jpg,Real World,train,8
+1727,./OfficeHome/01727.jpg,Real World,train,8
+1728,./OfficeHome/01728.jpg,Real World,train,8
+1729,./OfficeHome/01729.jpg,Real World,train,8
+1730,./OfficeHome/01730.jpg,Real World,valid,8
+1731,./OfficeHome/01731.jpg,Real World,valid,8
+1732,./OfficeHome/01732.jpg,Real World,valid,8
+1733,./OfficeHome/01733.jpg,Real World,valid,8
+1734,./OfficeHome/01734.jpg,Real World,valid,8
+1735,./OfficeHome/01735.jpg,Real World,valid,8
+1736,./OfficeHome/01736.jpg,Real World,valid,8
+1737,./OfficeHome/01737.jpg,Real World,valid,8
+1738,./OfficeHome/01738.jpg,Real World,valid,8
+1739,./OfficeHome/01739.jpg,Real World,valid,8
+1740,./OfficeHome/01740.jpg,Real World,valid,8
+1741,./OfficeHome/01741.jpg,Real World,valid,8
+1742,./OfficeHome/01742.jpg,Real World,valid,8
+1743,./OfficeHome/01743.jpg,Real World,valid,8
+1744,./OfficeHome/01744.jpg,Real World,train,9
+1745,./OfficeHome/01745.jpg,Real World,train,9
+1746,./OfficeHome/01746.jpg,Real World,train,9
+1747,./OfficeHome/01747.jpg,Real World,train,9
+1748,./OfficeHome/01748.jpg,Real World,train,9
+1749,./OfficeHome/01749.jpg,Real World,train,9
+1750,./OfficeHome/01750.jpg,Real World,train,9
+1751,./OfficeHome/01751.jpg,Real World,train,9
+1752,./OfficeHome/01752.jpg,Real World,train,9
+1753,./OfficeHome/01753.jpg,Real World,train,9
+1754,./OfficeHome/01754.jpg,Real World,train,9
+1755,./OfficeHome/01755.jpg,Real World,train,9
+1756,./OfficeHome/01756.jpg,Real World,train,9
+1757,./OfficeHome/01757.jpg,Real World,train,9
+1758,./OfficeHome/01758.jpg,Real World,train,9
+1759,./OfficeHome/01759.jpg,Real World,train,9
+1760,./OfficeHome/01760.jpg,Real World,train,9
+1761,./OfficeHome/01761.jpg,Real World,train,9
+1762,./OfficeHome/01762.jpg,Real World,train,9
+1763,./OfficeHome/01763.jpg,Real World,train,9
+1764,./OfficeHome/01764.jpg,Real World,train,9
+1765,./OfficeHome/01765.jpg,Real World,train,9
+1766,./OfficeHome/01766.jpg,Real World,train,9
+1767,./OfficeHome/01767.jpg,Real World,train,9
+1768,./OfficeHome/01768.jpg,Real World,train,9
+1769,./OfficeHome/01769.jpg,Real World,train,9
+1770,./OfficeHome/01770.jpg,Real World,train,9
+1771,./OfficeHome/01771.jpg,Real World,train,9
+1772,./OfficeHome/01772.jpg,Real World,train,9
+1773,./OfficeHome/01773.jpg,Real World,train,9
+1774,./OfficeHome/01774.jpg,Real World,train,9
+1775,./OfficeHome/01775.jpg,Real World,train,9
+1776,./OfficeHome/01776.jpg,Real World,train,9
+1777,./OfficeHome/01777.jpg,Real World,train,9
+1778,./OfficeHome/01778.jpg,Real World,train,9
+1779,./OfficeHome/01779.jpg,Real World,train,9
+1780,./OfficeHome/01780.jpg,Real World,train,9
+1781,./OfficeHome/01781.jpg,Real World,train,9
+1782,./OfficeHome/01782.jpg,Real World,train,9
+1783,./OfficeHome/01783.jpg,Real World,train,9
+1784,./OfficeHome/01784.jpg,Real World,train,9
+1785,./OfficeHome/01785.jpg,Real World,train,9
+1786,./OfficeHome/01786.jpg,Real World,train,9
+1787,./OfficeHome/01787.jpg,Real World,train,9
+1788,./OfficeHome/01788.jpg,Real World,valid,9
+1789,./OfficeHome/01789.jpg,Real World,valid,9
+1790,./OfficeHome/01790.jpg,Real World,valid,9
+1791,./OfficeHome/01791.jpg,Real World,valid,9
+1792,./OfficeHome/01792.jpg,Real World,valid,9
+1793,./OfficeHome/01793.jpg,Real World,valid,9
+1794,./OfficeHome/01794.jpg,Real World,valid,9
+1795,./OfficeHome/01795.jpg,Real World,valid,9
+1796,./OfficeHome/01796.jpg,Real World,valid,9
+1797,./OfficeHome/01797.jpg,Real World,valid,9
+1798,./OfficeHome/01798.jpg,Real World,valid,9
