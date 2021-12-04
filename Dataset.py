@@ -7,10 +7,13 @@ from torchvision.io import read_image
 import torchvision.transforms as transforms
 from PIL import Image
 
+
 class OfficeHome(data.Dataset):
-    def __init__(self, split, domain, transform= None, target_transform= None):
+    def __init__(self, split, domain, transform=None, target_transform=None):
         self.data_info = pd.read_csv("data_info.csv", index_col=0)
-        self.data_info = self.data_info[(self.data_info["split"]==split) & (self.data_info["domain"]==domain)]
+        self.data_info = self.data_info[
+            (self.data_info["split"] == split) & (self.data_info["domain"] == domain)
+        ]
         self.transform = transform
         self.target_transform = target_transform
 
@@ -35,4 +38,3 @@ class OfficeHome(data.Dataset):
 
     def __len__(self):
         return len(self.data_info)
-

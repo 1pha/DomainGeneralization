@@ -12,6 +12,5 @@ gamma = 10
 theta = 0.01
 
 # path params
-data_root = './data'
-save_dir = './experiment'
-
+data_root = "./data"
+save_dir = "./experiment"
