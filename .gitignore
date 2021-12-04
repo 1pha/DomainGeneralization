@@ -1,6 +1,9 @@
 # Case of byproducts
 OfficeHome/
 wandb/
+MNIST/
+mnist_m/
+mnist_m.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
