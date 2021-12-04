@@ -96,6 +96,7 @@ def train(
             # compute the domain loss of src_feature and target_feature
             tgt_preds = domain_classifier(tgt_feature)
             src_preds = domain_classifier(src_feature)
+            
             tgt_loss = domain_criterion(tgt_preds, target_labels)
             src_loss = domain_criterion(src_preds, source_labels)
             domain_loss = tgt_loss + src_loss
