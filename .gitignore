@@ -4,6 +4,7 @@ wandb/
 MNIST/
 mnist_m/
 mnist_m.tar.gz
+outputs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
