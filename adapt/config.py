@@ -18,14 +18,21 @@ class Arguments:
         default="mobilenetv3_rw",
         metadata={"help": "Model name used in timm. Use mobilenet for default"},
     )
-    num_train_epoch: int = field(default=20, metadata={"help": "Number of epochs"})
+    num_epoch: int = field(default=20, metadata={"help": "Number of epochs."})
     src_data: int = field(default=0, metadata={"help": "Which data to use as source."})
     tgt_data: int = field(default=0, metadata={"help": "Which data to use as target."})
     learning_rate: float = field(default=1e-4, metadata={"help": "Learning rate."})
     dir_name: str = field(
         default=None, metadata={"help": "Name of directory being used for output."}
     )
+    embed_dim: int = field(
+        default=1280,
+        metadata={
+            "help": "Embedding dimension being used in the linear classifier. Needs revision if you change the model."
+        },
+    )
     seed: int = field(default=42, metadata={"help": "Fixate seed."})
+    wandb: bool = field(default=True, metadata={"help": "Wheter to use wandb or not."})
 
     def to_dict(self):
         """
@@ -84,7 +91,6 @@ def load_config(output_dir):
 
 def parse_arguments():
 
-    import torch
     from transformers import HfArgumentParser, set_seed
 
     parser = HfArgumentParser(Arguments)

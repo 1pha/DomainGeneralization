@@ -1,5 +1,7 @@
+import os
 import logging
 import random
+from pathlib import Path
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 import numpy as np
@@ -32,6 +34,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+domains = ["Art", "Clipart", "Product", "Real World"]
+
 
 def set_seed(seed):
     random.seed(seed)
@@ -40,10 +44,13 @@ def set_seed(seed):
 
 
 class Trainer:
-    def __init__(self, src, tgt, wandb=True):
+    def __init__(self, args, wandb=True):
 
         set_seed(42)
-        self.dataloaders = self.load_dataset(src, tgt)
+        self.args = args
+        self.dataloaders = self.load_dataset(
+            domains[args.src_data], domains[args.tgt_data]
+        )
         self.model_setup()
         self.wandb = wandb
 
@@ -87,11 +94,13 @@ class Trainer:
 
         self.device = torch.device("cuda")
 
-        G = timm.create_model("mobilenetv3_rw", pretrained=True).to(self.device)
+        G = timm.create_model(self.args.model_name_or_path, pretrained=True).to(
+            self.device
+        )
         G.classifier = nn.Identity()
 
-        C = Classifier(in_size=1280, num_classes=10).to(self.device)
-        D = Discriminator(in_size=1280, h=256).to(self.device)
+        C = Classifier(in_size=self.args.embed_dim, num_classes=10).to(self.device)
+        D = Discriminator(in_size=self.args.embed_dim, h=256).to(self.device)
 
         self.models = Models({"G": G, "C": C, "D": D})
 
@@ -148,12 +157,12 @@ class Trainer:
 
         return metric
 
-    def run(self, epoch):
+    def run(self):
 
         self.loss = []
         self.valid_logits = []
 
-        for e in range(epoch):
+        for e in range(self.args.num_epoch):
 
             train_result = self.train()
             valid_result = self.valid()
@@ -161,6 +170,11 @@ class Trainer:
             if self.wandb:
                 wandb.log(train_result, commit=False)
                 wandb.log(valid_result)
+
+        os.makedirs(Path(f"outputs/{self.args.dir_name}"), exist_ok=True)
+        for name, model in self.models.items():
+            fname = Path(f"outputs/{self.args.dir_name}/{name}.[t")
+            torch.save(model.state_dict(), fname)
 
     def get_metric(self, y_true=None, y_pred=None, split="train"):
 

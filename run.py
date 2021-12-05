@@ -1,12 +1,12 @@
 from adapt.trainer import Trainer
+from adapt.config import parse_arguments
 
 if __name__ == "__main__":
 
     import wandb
 
-    wandb.init(project="Domain-Generalization")
+    args = parse_arguments()
+    wandb.init(project="Domain-Generalization", name=args.dir_name)
 
-    domains = ["Art", "Clipart", "Product", "Real World"]
-    trainer = Trainer(domains[0], domains[1], True)
-
-    trainer.run(100)
+    trainer = Trainer(args)
+    trainer.run()

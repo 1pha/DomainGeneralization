@@ -8,7 +8,8 @@ from sklearn.manifold import TSNE
 
 
 import matplotlib.pyplot as plt
-plt.switch_backend('agg')
+
+plt.switch_backend("agg")
 
 import numpy as np
 import os, time
@@ -27,19 +28,20 @@ def get_train_loader(domain):
     #     transforms.Normalize(mean= params.dataset_mean, std= params.dataset_std)
     # ])
 
-    transform = transforms.Compose([
-        transforms.Resize(256),
-        transforms.RandomCrop(256),
-        transforms.ToTensor(),
-        transforms.Normalize(mean=params.dataset_mean, std=params.dataset_std)
-    ])
+    transform = transforms.Compose(
+        [
+            transforms.Resize(224),
+            transforms.RandomCrop(224),
+            transforms.ToTensor(),
+            transforms.Normalize(mean=params.dataset_mean, std=params.dataset_std),
+        ]
+    )
 
-    data = OfficeHome(split= 'train', transform= transform, domain=domain)
+    data = OfficeHome(split="train", transform=transform, domain=domain)
 
-    dataloader = DataLoader(dataset = data, batch_size= params.batch_size, shuffle= True)
+    dataloader = DataLoader(dataset=data, batch_size=params.batch_size, shuffle=True)
 
     return dataloader
-
 
 
 def get_test_loader(domain):
@@ -47,19 +49,20 @@ def get_test_loader(domain):
     Get test dataloader of source domain or target domain
     :return: dataloader
     """
-    transform = transforms.Compose([
-        transforms.Resize(256),
-        transforms.RandomCrop(256),
-        transforms.ToTensor(),
-        transforms.Normalize(mean=params.dataset_mean, std=params.dataset_std)
-    ])
+    transform = transforms.Compose(
+        [
+            transforms.Resize(224),
+            transforms.RandomCrop(224),
+            transforms.ToTensor(),
+            transforms.Normalize(mean=params.dataset_mean, std=params.dataset_std),
+        ]
+    )
 
-    data = OfficeHome(split='valid', transform=transform, domain=domain)
+    data = OfficeHome(split="valid", transform=transform, domain=domain)
 
     dataloader = DataLoader(dataset=data, batch_size=params.batch_size, shuffle=False)
 
     return dataloader
-
 
 
 def optimizer_scheduler(optimizer, p):
@@ -70,10 +73,9 @@ def optimizer_scheduler(optimizer, p):
     :return: optimizer
     """
     for param_group in optimizer.param_groups:
-        param_group['lr'] = 1e-2 / (1. + 10 * p) ** 0.75
+        param_group["lr"] = 1e-2 / (1.0 + 10 * p) ** 0.75
 
     return optimizer
-
 
 
 def displayImages(dataloader, length=8, imgName=None):
@@ -95,16 +97,15 @@ def displayImages(dataloader, length=8, imgName=None):
     images = images[:length]
 
     images = torchvision.utils.make_grid(images).numpy()
-    images = images/2 + 0.5
+    images = images / 2 + 0.5
     images = np.transpose(images, (1, 2, 0))
 
-
-    if params.fig_mode == 'display':
+    if params.fig_mode == "display":
 
         plt.imshow(images)
         plt.show()
 
-    if params.fig_mode == 'save':
+    if params.fig_mode == "save":
         # Check if folder exist, otherwise need to create it.
         folder = os.path.abspath(params.save_dir)
 
@@ -112,20 +113,21 @@ def displayImages(dataloader, length=8, imgName=None):
             os.makedirs(folder)
 
         if imgName is None:
-            imgName = 'displayImages' + str(int(time.time()))
-
+            imgName = "displayImages" + str(int(time.time()))
 
         # Check extension in case.
-        if not (imgName.endswith('.jpg') or imgName.endswith('.png') or imgName.endswith('.jpeg')):
-            imgName = os.path.join(folder, imgName + '.jpg')
+        if not (
+            imgName.endswith(".jpg")
+            or imgName.endswith(".png")
+            or imgName.endswith(".jpeg")
+        ):
+            imgName = os.path.join(folder, imgName + ".jpg")
 
         plt.imsave(imgName, images)
         plt.close()
 
     # print labels
-    print(' '.join('%5s' % labels[j].item() for j in range(length)))
-
-
+    print(" ".join("%5s" % labels[j].item() for j in range(length)))
 
 
 def plot_embedding(X, y, d, title=None, imgName=None):
@@ -148,14 +150,18 @@ def plot_embedding(X, y, d, title=None, imgName=None):
     X = (X - x_min) / (x_max - x_min)
 
     # Plot colors numbers
-    plt.figure(figsize=(10,10))
+    plt.figure(figsize=(10, 10))
     ax = plt.subplot(111)
 
     for i in range(X.shape[0]):
         # plot colored number
-        plt.text(X[i, 0], X[i, 1], str(y[i]),
-                 color=plt.cm.bwr(d[i]/1.),
-                 fontdict={'weight': 'bold', 'size': 9})
+        plt.text(
+            X[i, 0],
+            X[i, 1],
+            str(y[i]),
+            color=plt.cm.bwr(d[i] / 1.0),
+            fontdict={"weight": "bold", "size": 9},
+        )
 
     plt.xticks([]), plt.yticks([])
 
@@ -165,11 +171,11 @@ def plot_embedding(X, y, d, title=None, imgName=None):
     else:
         plt.title(params.training_mode)
 
-    if params.fig_mode == 'display':
+    if params.fig_mode == "display":
         # Directly display if no folder provided.
         plt.show()
 
-    if params.fig_mode == 'save':
+    if params.fig_mode == "save":
         # Check if folder exist, otherwise need to create it.
         folder = os.path.abspath(params.save_dir)
 
@@ -177,12 +183,16 @@ def plot_embedding(X, y, d, title=None, imgName=None):
             os.makedirs(folder)
 
         if imgName is None:
-            imgName = 'plot_embedding' + str(int(time.time()))
+            imgName = "plot_embedding" + str(int(time.time()))
 
         # Check extension in case.
-        if not (imgName.endswith('.jpg') or imgName.endswith('.png') or imgName.endswith('.jpeg')):
-            imgName = os.path.join(folder, imgName + '.jpg')
+        if not (
+            imgName.endswith(".jpg")
+            or imgName.endswith(".png")
+            or imgName.endswith(".jpeg")
+        ):
+            imgName = os.path.join(folder, imgName + ".jpg")
 
-        print('Saving ' + imgName + ' ...')
+        print("Saving " + imgName + " ...")
         plt.savefig(imgName)
         plt.close()
