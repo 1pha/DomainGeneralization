@@ -159,6 +159,8 @@ class Trainer:
 
     def run(self):
 
+        os.makedirs(Path(f"outputs/{self.args.dir_name}"), exist_ok=True)
+
         self.loss = []
         self.valid_logits = []
 
@@ -171,10 +173,17 @@ class Trainer:
                 wandb.log(train_result, commit=False)
                 wandb.log(valid_result)
 
-        os.makedirs(Path(f"outputs/{self.args.dir_name}"), exist_ok=True)
-        for name, model in self.models.items():
-            fname = Path(f"outputs/{self.args.dir_name}/{name}.[t")
-            torch.save(model.state_dict(), fname)
+            os.makedirs(
+                Path(
+                    f"outputs/{self.args.dir_name}/{str(e).zfill(2)}_acc{int(valid_result['target_acc']*100)}_auroc{int(valid_result['target_auroc']*100)}"
+                ),
+                exist_ok=True,
+            )
+            for name, model in self.models.items():
+                fname = Path(
+                    f"outputs/{self.args.dir_name}/{str(e).zfill(2)}_acc{int(valid_result['target_acc']*100)}_auroc{int(valid_result['target_auroc']*100)}/{name}.pt"
+                )
+                torch.save(model.state_dict(), fname)
 
     def get_metric(self, y_true=None, y_pred=None, split="train"):
 
@@ -209,6 +218,13 @@ class Trainer:
         plt.scatter(src_embed[:, 0], src_embed[:, 1], label="Source")
         plt.scatter(tgt_embed[:, 0], tgt_embed[:, 1], label="Target")
         plt.show()
+
+    def load_model(self, path: list):
+
+        for pth in path:
+            name = pth.split(".")[-2]
+            self.models[name].load_state_dict(torch.load(pth))
+            print(f"{name.capitalize()} is successfully loaded")
 
 
 if __name__ == "__main__":
