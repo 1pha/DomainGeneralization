@@ -136,26 +136,47 @@ class Trainer:
     def valid(self):
 
         self.models.eval()
-        logits, labels = [], []
+        tgt_train_logits, tgt_train_labels = [], []
+        tgt_valid_logits, tgt_valid_labels = [], []
         with torch.no_grad():
             for data in tqdm(self.dataloaders["target_train"]):
                 data = batch_to_device(data, self.device)
-                logits.append(
+                tgt_train_logits.append(
                     nn.Softmax(dim=1)(
                         self.models["C"](self.models["G"](data["target_imgs"]))
                     )
                 )
-                labels.append(data["target_labels"])
+                tgt_train_labels.append(data["target_labels"])
 
                 del data
                 torch.cuda.empty_cache()
 
-            logits = torch.cat(logits, dim=0).detach().cpu().numpy()
-            labels = torch.cat(labels, dim=0).detach().cpu().numpy()
+            tgt_train_logits = torch.cat(tgt_train_logits, dim=0).detach().cpu().numpy()
+            tgt_train_labels = torch.cat(tgt_train_labels, dim=0).detach().cpu().numpy()
 
-        metric = self.get_metric(labels, logits, split="target")
+            for data in tqdm(self.dataloaders["target_val"]):
+                data = batch_to_device(data, self.device)
+                tgt_valid_logits.append(
+                    nn.Softmax(dim=1)(
+                        self.models["C"](self.models["G"](data["target_imgs"]))
+                    )
+                )
+                tgt_valid_labels.append(data["target_labels"])
 
-        return metric
+                del data
+                torch.cuda.empty_cache()
+
+            tgt_valid_logits = torch.cat(tgt_valid_logits, dim=0).detach().cpu().numpy()
+            tgt_valid_labels = torch.cat(tgt_valid_labels, dim=0).detach().cpu().numpy()
+
+        train_metric = self.get_metric(
+            tgt_train_labels, tgt_train_logits, split="target_train"
+        )
+        valid_metric = self.get_metric(
+            tgt_valid_labels, tgt_valid_logits, split="target_valid"
+        )
+        train_metric.update(valid_metric)
+        return train_metric
 
     def run(self):
 
@@ -175,13 +196,13 @@ class Trainer:
 
             os.makedirs(
                 Path(
-                    f"outputs/{self.args.dir_name}/{str(e).zfill(2)}_acc{int(valid_result['target_acc']*100)}_auroc{int(valid_result['target_auroc']*100)}"
+                    f"outputs/{self.args.dir_name}/{str(e).zfill(2)}_acc{int(valid_result['target_valid_acc']*100)}_auroc{int(valid_result['target_valid_auroc']*100)}"
                 ),
                 exist_ok=True,
             )
             for name, model in self.models.items():
                 fname = Path(
-                    f"outputs/{self.args.dir_name}/{str(e).zfill(2)}_acc{int(valid_result['target_acc']*100)}_auroc{int(valid_result['target_auroc']*100)}/{name}.pt"
+                    f"outputs/{self.args.dir_name}/{str(e).zfill(2)}_acc{int(valid_result['target_valid_acc']*100)}_auroc{int(valid_result['target_valid_auroc']*100)}/{name}.pt"
                 )
                 torch.save(model.state_dict(), fname)
 
@@ -222,7 +243,7 @@ class Trainer:
     def load_model(self, path: list):
 
         for pth in path:
-            name = pth.split(".")[-2]
+            name = pth.split("\\")[-1].split(".")[0]
             self.models[name].load_state_dict(torch.load(pth))
             print(f"{name.capitalize()} is successfully loaded")
 
